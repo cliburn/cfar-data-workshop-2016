@@ -2,3 +2,10 @@
 *.pyc
 _build/
 make.bat
+
+data/RM30pre_pla.txt
+data/RM30pre_pla.xlsx
+data/RM30w31_pla.xlsx
+data/Study01_MappingSummary_20160808_SXS.xlsx
+
+Scratch.ipynb

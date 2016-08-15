@@ -6,14 +6,22 @@
 Duke-UNC CFAR Data Workshop
 =======================================================
 
-Contents:
+Day 1
+^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
 
-   Getting Started with Data.ipynb
+   Getting Started with Python.ipynb
    Introduction to Pandas.ipynb
    Data Manipulation.ipynb
+
+Day 2
+^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+  :maxdepth: 2
+
 
 Indices and tables
 ==================

@@ -2,15 +2,14 @@
 
 ## Morning Session
 
-### 10:00 - 11:15 Introduction
+### 10:00 - 11:15 [Getting Started With Python](http://people.duke.edu/~ccc14/cfar-data-2016/Getting%20Started%20with%20Data.html)
 
 - Installation
 - Jupyter
 - Literate programming and `markdown`
 - Elements of Python programming
-- Extended example
 
-### 11:30 - 12:45 Getting and Tidying Data
+### 11:30 - 12:45 [Combining and Reshaping Data](http://people.duke.edu/~ccc14/cfar-data-2016/Introduction%20to%20Pandas.html)
 
 - `Series` and `DataFrame`
 - Reading and writing data
@@ -19,18 +18,18 @@
 
 ## Afternoon Session
 
-### 1:45 - 3:00 Manipulating and Querying Data
+### 1:45 - 3:00 [Manipulating and Querying Data](http://people.duke.edu/~ccc14/cfar-data-2016/Data%20Manipulation.html)
 
-- Filtering and sorting data 1
-- Transforming data 1
-- Split-apply combine 1
-- Plotting with `pandas`
+- Filtering and sorting data
+- Transforming data
+- Split-apply-combine
+- Pivot tables
 
-### 3:45 - 4:30 An Extended Example Revisited
+### 3:45 - 4:30 An Extended Example
 
-- Filtering and sorting data 2
-- Transforming data 2
-- Split-apply combine 2
+- Filtering and sorting data
+- Transforming data
+- Split-apply combine
 
 # Day 2
 
@@ -43,7 +42,7 @@
 - Annotation, text and guides
 - Less is more
 
-## 11:30 - 12:45 Types of Plots
+## 11:30 - 12:45 Basic Plots
 
 - Scatter plot, line plot and statistical fitting
 - Swarm plot, bar plot, box plot and violin plot
