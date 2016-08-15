@@ -20,8 +20,9 @@ Day 2
 ^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
-  :maxdepth: 2
+   :maxdepth: 2
 
+   Basic Plots.ipynb
 
 Indices and tables
 ==================

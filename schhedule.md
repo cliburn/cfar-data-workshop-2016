@@ -42,7 +42,7 @@
 - Annotation, text and guides
 - Less is more
 
-## 11:30 - 12:45 Basic Plots
+## 11:30 - 12:45 [Basic Plots](http://people.duke.edu/~ccc14/cfar-data-2016/Basic%20Plots.html)
 
 - Scatter plot, line plot and statistical fitting
 - Swarm plot, bar plot, box plot and violin plot
