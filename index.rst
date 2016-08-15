@@ -11,6 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   Getting Started with Data.ipynb
    Introduction to Pandas.ipynb
    Data Manipulation.ipynb
 

@@ -2,14 +2,15 @@
 
 ## Morning Session
 
-### 10:00 - 11:15 An Extended Example
+### 10:00 - 11:15 Introduction
 
 - Installation
 - Jupyter
 - Literate programming and `markdown`
+- Elements of Python programming
 - Extended example
 
-### 11:30 - 12:45 Introduction To `pandas`
+### 11:30 - 12:45 Getting and Tidying Data
 
 - `Series` and `DataFrame`
 - Reading and writing data
@@ -18,7 +19,7 @@
 
 ## Afternoon Session
 
-### 1:45 - 3:00 Data Manipulation
+### 1:45 - 3:00 Manipulating and Querying Data
 
 - Filtering and sorting data 1
 - Transforming data 1
