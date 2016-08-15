@@ -18,11 +18,12 @@
 
 ## Afternoon Session
 
-### 1:45 - 3:00 Data Tidying And Manipulation
+### 1:45 - 3:00 Data Manipulation
 
 - Filtering and sorting data 1
 - Transforming data 1
 - Split-apply combine 1
+- Plotting with `pandas`
 
 ### 3:45 - 4:30 An Extended Example Revisited
 
