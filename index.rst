@@ -22,6 +22,7 @@ Day 2
 .. toctree::
    :maxdepth: 2
 
+   Getting_Started_With_Graphics.ipynb
    Basic_Plots.ipynb
    Customizing_Plots.ipynb
 

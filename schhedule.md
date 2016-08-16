@@ -33,7 +33,7 @@
 
 # Day 2
 
-## 10:00 - 11:15 Elements of Graphics
+## 10:00 - 11:15 [Getting Started with Graphics](http://bit.ly/2bx83m8)
 
 - Mapping data to visual elements
 - Types of plots (geometry)
