@@ -12,9 +12,9 @@ Day 1
 .. toctree::
    :maxdepth: 2
 
-   Getting Started with Python.ipynb
-   Introduction to Pandas.ipynb
-   Data Manipulation.ipynb
+   Getting_Started_with_Python.ipynb
+   Introduction_to_Pandas.ipynb
+   Data_Manipulation.ipynb
 
 Day 2
 ^^^^^^^^^^^^^^^^^^^
@@ -22,8 +22,8 @@ Day 2
 .. toctree::
    :maxdepth: 2
 
-   Basic Plots.ipynb
-   Customizing Plots.ipynb
+   Basic_Plots.ipynb
+   Customizing_Plots.ipynb
 
 Indices and tables
 ==================
