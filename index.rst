@@ -23,6 +23,7 @@ Day 2
    :maxdepth: 2
 
    Basic Plots.ipynb
+   Customizing Plots.ipynb
 
 Indices and tables
 ==================
