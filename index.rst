@@ -6,6 +6,13 @@
 Duke-UNC CFAR Data Workshop
 =======================================================
 
+Pre-workshop setup
+^^^^^^^^^^^^^^^^^^^
+.. toctree::
+   :maxdepth: 2
+
+   Prerequisites.ipynb
+
 Day 1
 ^^^^^^^^^^^^^^^^^^^
 
