@@ -11,6 +11,7 @@ Pre-workshop setup
 .. toctree::
    :maxdepth: 2
 
+   Overview.ipynb
    Prerequisites.ipynb
 
 Day 1
