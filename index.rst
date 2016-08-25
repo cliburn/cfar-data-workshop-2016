@@ -6,7 +6,7 @@
 Duke-UNC CFAR Data Workshop
 =======================================================
 
-Pre-workshop setup
+Pre-workshop
 ^^^^^^^^^^^^^^^^^^^
 .. toctree::
    :maxdepth: 2
@@ -33,6 +33,14 @@ Day 2
    Getting_Started_With_Graphics.ipynb
    Basic_Plots.ipynb
    Customizing_Plots.ipynb
+
+Post-workshop
+^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 2
+
+   Resources.ipynb
 
 Indices and tables
 ==================
