@@ -55,6 +55,7 @@ Day 2
    Getting_Started_With_Graphics.ipynb
    Basic_Plots.ipynb
    Customizing_Plots.ipynb
+   Capstone2.ipynb
 
 Post-workshop
 ^^^^^^^^^^^^^^^^^^^
