@@ -1,0 +1,2339 @@
+OriNum	NewNum	PeptideSeq	Region	Seqs	N.ident	Batch	12	11	10	9	8	1	2	3	4	5	6	7		
+1	E1	MRVMGIQRNWQHLWR	1	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+2	E2	MRVMGIQRNCQHLWR	1	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+3	E3	MRVKGIRKNYQHLWR	1	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+4	E4	MRVRGILRNWQQWWI	1	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+5	E5	MRVRGIERNYQHLWR	1	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	AE.A244
+6	E6	MRVKETQMNWPNLWK	1	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+7	E7	MRVMGIQKNYPLLWR	1	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1426	MRVRGIWKNWPQWLI	1	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1427	MRVMGTQKNCQQWWI	1	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1920	MRVREILRNWQRWWT	1	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+8	E8	MGIQRNWQHLWRWGT	2	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+9	E9	MGIQRNCQHLWRWGT	2	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+10	E10	KGIRKNYQHLWRWGT	2	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+11	E11	RGILRNWQQWWIWGI	2	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+12	E12	RGIERNYQHLWRWGT	2	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+13	E13	KETQMNWPNLWKWGT	2	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+14	E14	MGIQKNYPLLWRWGT	2	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1428	RGIWKNWPQWLIWSI	2	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1429	MGTQKNCQQWWIWGI	2	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1921	REILRNWQRWWTWGI	2	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+15	E15	QRNWQHLWRWGTLIL	3	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+16	E16	QRNCQHLWRWGTMIL	3	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+17	E17	RKNYQHLWRWGTMLL	3	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+18	E18	LRNWQQWWIWGILGF	3	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+19	E19	ERNYQHLWRWGTMLL	3	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+20	E20	QMNWPNLWKWGTLIL	3	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+21	E21	QKNYPLLWRWGTIIF	3	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1430	WKNWPQWLIWSILGF	3	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1431	QKNCQQWWIWGILGF	3	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1922	LRNWQRWWTWGILGF	3	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+22	E22	WQHLWRWGTLILGML	4	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+23	E23	CQHLWRWGTMILGMI	4	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+24	E24	YQHLWRWGTMLLGML	4	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+25	E25	WQQWWIWGILGFWML	4	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+26	E26	WPNLWKWGTLILGLV	4	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+27	E27	YPLLWRWGTIIFWIM	4	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1432	WPQWLIWSILGFWIG	4	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1433	CQQWWIWGILGFWML	4	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1923	WQRWWTWGILGFWML	4	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+28	E28	LWRWGTLILGMLIIC	5	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+29	E29	LWRWGTMILGMIIIC	5	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+30	E30	LWRWGTMLLGMLMIC	5	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+31	E31	WWIWGILGFWMLMIC	5	4&12	2	Ori	-	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+32	E32	LWKWGTLILGLVIIC	5	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+33	E33	LWRWGTIIFWIMIIC	5	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1924	WWTWGILGFWMLMIC	5	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+34	E34	WGTLILGMLIICSAA	6	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+35	E35	WGTMILGMIIICSAA	6	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+36	E36	WGTMLLGMLMICSAA	6	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+37	E37	WGILGFWMLMICNVV	6	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+38	E38	WGTMLLGMLMICSVA	6	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+39	E39	WGTLILGLVIICSAS	6	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+40	E40	WGTIIFWIMIICNAE	6	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1435	WLIWSILGFWIGNME	6	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1436	WGILGFWMLMICNTE	6	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1925	WGILGFWMLMICNVW	6	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+41	E41	LILGMLIICSAAENL	7	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+42	E42	MILGMIIICSAAENL	7	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+43	E43	MLLGMLMICSAAEQL	7	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+44	E44	LGFWMLMICNVVGNL	7	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+45	E45	MLLGMLMICSVAEQL	7	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+46	E46	LILGLVIICSASDNL	7	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+47	E47	IIFWIMIICNAENL	7	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1437	WSILGFWIGNMEGSW	7	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1438	LGFWMLMICNTEDLW	7	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1926	LGFWMLMICNVWGNL	7	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+48	E48	GMLIICSAAENLWVT	8	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+49	E49	GMIIICSAAENLWVT	8	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+50	E50	GMLMICSAAEQLWVT	8	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+51	E51	WMLMICNVVGNLWVT	8	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+52	E52	GMLMICSVAEQLWVT	8	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+53	E53	GLVIICSASDNLWVT	8	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+54	E54	WIMIICNAENLWVT	8	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1439	LGFWIGNMEGSWVTV	8	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1440	WMLMICNTEDLWVTV	8	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1927	WMLMICNVWGNLWVT	8	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+55	E55	IICSAAENLWVTVYY	9	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+56	E56	MICSAAEQLWVTVYY	9	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+57	E57	MICNVVGNLWVTVYY	9	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+58	E58	MICSVAEQLWVTVYY	9	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+59	E59	IICSASDNLWVTVYY	9	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+60	E60	IICNAENLWVTVYY	9	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1441	FWIGNMEGSWVTVYY	9	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1442	MICNTEDLWVTVYYG	9	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1928	MICNVWGNLWVTVYY	9	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+61	E61	SAAENLWVTVYYGVP	10	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+62	E62	SAAEQLWVTVYYGVP	10	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+63	E63	NVVGNLWVTVYYGVP	10	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+64	E64	SVAEQLWVTVYYGVP	10	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+65	E65	SASDNLWVTVYYGVP	10	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+66	E66	NAENLWVTVYYGVP	10	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1444	GNMEGSWVTVYYGVP	10	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1445	NTEDLWVTVYYGVPV	10	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1929	NVWGNLWVTVYYGVP	10	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+67	E67	ENLWVTVYYGVPVWK	11	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+68	E68	EQLWVTVYYGVPVWK	11	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+69	E69	GNLWVTVYYGVPVWK	11	4&13	2	Ori	C.ZM651	-	-	-	-	-	-	-	-	C Con	-	-	-	
+70	E70	DNLWVTVYYGVPVWR	11	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+71	E71	NLWVTVYYGVPVWR	11	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1448	EGSWVTVYYGVPVWK	11	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1449	EDLWVTVYYGVPVWR	11	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+72	E72	WVTVYYGVPVWKEAT	12	1&3&5	3	Ori	-	-	-	-	-	-	M Con	-	B Con	-	D Con	-	-	
+73	E73	WVTVYYGVPVWKDAE	12	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+74	E74	WVTVYYGVPVWKEAK	12	4&11&13	3	Ori	C.ZM651	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+75	E75	WVTVYYGVPVWRDAD	12	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+76	E76	WVTVYYGVPVWRDAE	12	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1453	WVTVYYGVPVWREAK	12	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+77	E77	VYYGVPVWKEATTTL	13	1&3&5	3	Ori	-	-	-	-	-	-	M Con	-	B Con	-	D Con	-	-	
+78	E78	VYYGVPVWKDAETTL	13	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+79	E79	VYYGVPVWKEAKTTL	13	4&11&13	3	Ori	C.ZM651	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+80	E80	VYYGVPVWRDADTTL	13	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+81	E81	VYYGVPVWRDAETTL	13	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1457	VYYGVPVWREAKTTL	13	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+82	E82	GVPVWKEATTTLFCA	14	1&3&5	3	Ori	-	-	-	-	-	-	M Con	-	B Con	-	D Con	-	-	
+83	E83	GVPVWKDAETTLFCA	14	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+84	E84	GVPVWKEAKTTLFCA	14	4&11&13	3	Ori	C.ZM651	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+85	E85	GVPVWRDADTTLFCA	14	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+86	E86	GVPVWRDAETTLFCA	14	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1458	VPVWKEADTTLFCAS	14	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1459	VPVWRDADTTLFCAS	14	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1460	VPVWKEATTTLFCAS	14	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1461	GVPVWREAKTTLFCA	14	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+87	E87	VWKEATTTLFCASDA	15	1&3&5&10	4	Ori	-	-	-	B.MN	-	-	M Con	-	B Con	-	D Con	-	-	
+88	E88	VWKDAETTLFCASDA	15	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+89	E89	VWKEAKTTLFCASDA	15	4&11&13	3	Ori	C.ZM651	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+90	E90	VWRDADTTLFCASDA	15	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+91	E91	VWRDAETTLFCASDA	15	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1462	VWKEADTTLFCASDA	15	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1463	VWREAKTTLFCASDA	15	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+92	E92	EATTTLFCASDAKAY	16	1&3&10	3	Ori	-	-	-	B.MN	-	-	M Con	-	B Con	-	-	-	-	
+93	E93	DAETTLFCASDAKAY	16	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+94	E94	EAKTTLFCASDAKAY	16	4&11&12	3	Ori	-	C.TV1	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+95	E95	EATTTLFCASDAKSY	16	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+96	E96	DADTTLFCASDAKAH	16	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1464	EADTTLFCASDAKAH	16	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1465	DADTTLFCASDAKAQ	16	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1930	EAKTTLFCASDAKSY	16	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+97	E97	TTLFCASDAKAYETE	17	1&2&12	3	Ori	-	C.TV1	-	-	-	-	M Con	A Con	-	-	-	-	-	
+98	E98	TTLFCASDAKAYDTE	17	3&7&10	3	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	AG Con	
+99	E99	TTLFCASDAKAYEKE	17	4&11	2	Ori	-	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+100	E100	TTLFCASDAKSYKTE	17	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+101	E101	TTLFCASDAKAHETE	17	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1466	TTLFCASDAKAQETE	17	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1931	TTLFCASDAKSYEKE	17	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+102	E102	FCASDAKAYETEVHN	18	1&2&12	3	Ori	-	C.TV1	-	-	-	-	M Con	A Con	-	-	-	-	-	
+103	E103	FCASDAKAYDTEVHN	18	3&7	2	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	AG Con	
+104	E104	FCASDAKAYEKEVHN	18	4&11	2	Ori	-	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+105	E105	FCASDAKSYKTEAHN	18	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+106	E106	FCASDAKAHETEVHN	18	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1467	FCASDAKAQETEAHN	18	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1468	FCASDAKAYDTEAHN	18	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1932	FCASDAKSYEKEVHN	18	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+107	E107	SDAKAYETEVHNVWA	19	1&2&12	3	Ori	-	C.TV1	-	-	-	-	M Con	A Con	-	-	-	-	-	
+108	E108	SDAKAYDTEVHNVWA	19	3&7	2	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	AG Con	
+109	E109	SDAKAYEKEVHNVWA	19	4&11	2	Ori	-	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+110	E110	SDAKSYKTEAHNIWA	19	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+111	E111	SDAKAHETEVHNVWA	19	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1469	SDAKAQETEAHNVWA	19	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1470	SDAKAYDTEAHNVWA	19	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1933	SDAKSYEKEVHNVWA	19	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+112	E112	KAYETEVHNVWATHA	20	1&2&12	3	Ori	-	C.TV1	-	-	-	-	M Con	A Con	-	-	-	-	-	
+113	E113	KAYDTEVHNVWATHA	20	3&7	2	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	AG Con	
+114	E114	KAYEKEVHNVWATHA	20	4&11	2	Ori	-	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+115	E115	KSYKTEAHNIWATHA	20	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+116	E116	KAHETEVHNVWATHA	20	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1471	KAQETEAHNVWATHA	20	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1472	KAYDTEAHNVWATHA	20	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1934	KSYEKEVHNVWATHA	20	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+117	E117	ETEVHNVWATHACVP	21	1&2&6&8&12	5	Ori	-	C.TV1	-	-	-	AE.A244	M Con	A Con	-	-	-	AE Con	-	
+118	E118	DTEVHNVWATHACVP	21	3&7	2	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	AG Con	
+119	E119	EKEVHNVWATHACVP	21	4&11&13	3	Ori	C.ZM651	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+120	E120	KTEAHNIWATHACVP	21	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+-	E1473	ETEAHNVWATHACVP	21	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1474	DTEAHNVWATHACVP	21	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+																				
+121	E121	VHNVWATHACVPTDP	22	1&2&3&4&6&7&8&11&12&13	10	Ori	C.ZM651	C.TV1	C.1086	-	-	AE.A244	M Con	A Con	B Con	C Con	-	AE Con	AG Con	
+122	E122	AHNIWATHACVPTDP	22	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+-	E1475	AHNVWATHACVPTDP	22	9&10	2	New	-	-	-	B.MN	AE.TH023	-	-	-	-	-	-	-	-	
+																				
+123	E123	VWATHACVPTDPNPQ	23	1&2&3&4&6&7&8&9&10&11&12&13	12	Ori	C.ZM651	C.TV1	C.1086	B.MN	AE.TH023	AE.A244	M Con	A Con	B Con	C Con	-	AE Con	AG Con	
+124	E124	IWATHACVPTDPNPQ	23	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+125	E125	THACVPTDPNPQEIV	24	1&4&12&13	4	Ori	C.ZM651	C.TV1	-	-	-	-	M Con	-	-	C Con	-	-	-	
+126	E126	THACVPTDPNPQEIH	24	2&6&7	3	Ori	-	-	-	-	-	-	-	A Con	-	-	-	AE Con	AG Con	
+127	E127	THACVPTDPNPQEVV	24	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+128	E128	THACVPTDPNPQEIK	24	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+-	E1476	THACVPTDPNPQEID	24	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1477	THACVPTDPNPQELH	24	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1478	THACVPTDPNPQEVE	24	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1479	THACVPTDPNPQEMV	24	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+129	E129	CVPTDPNPQEIVLEN	25	1&4	2	Ori	-	-	-	-	-	-	M Con	-	-	C Con	-	-	-	
+130	E130	CVPTDPNPQEIHLEN	25	2&6&7	3	Ori	-	-	-	-	-	-	-	A Con	-	-	-	AE Con	AG Con	
+131	E131	CVPTDPNPQEVVLEN	25	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+132	E132	CVPTDPNPQEIKLEN	25	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+-	E1480	CVPTDPNPQEIDLEN	25	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1481	CVPTDPNPQELHLEN	25	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1482	CVPTDPNPQEVELVN	25	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1483	CVPTDPNPQEMVLAN	25	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1484	CVPTDPNPQEIVLGN	25	12&13	2	New	C.ZM651	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+133	E133	TDPNPQEIVLENVTE	26	1&4	2	Ori	-	-	-	-	-	-	M Con	-	-	C Con	-	-	-	
+134	E134	TDPNPQEIHLENVTE	26	2&6&7	3	Ori	-	-	-	-	-	-	-	A Con	-	-	-	AE Con	AG Con	
+135	E135	TDPNPQEVVLENVTE	26	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+136	E136	TDPNPQEIKLENVTE	26	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+-	E1485	TDPNPQEIDLENVTE	26	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1486	TDPNPQELHLENVTE	26	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1487	TDPNPQEVELVNVTE	26	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1488	TDPNPQEMVLANVTE	26	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1489	TDPNPQEIVLGNVTE	26	12&13	2	New	C.ZM651	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+137	E137	NPQEIVLENVTENFN	27	1&4	2	Ori	-	-	-	-	-	-	M Con	-	-	C Con	-	-	-	
+138	E138	NPQEIHLENVTEEFN	27	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+139	E139	NPQEVVLENVTENFN	27	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+140	E140	NPQEIKLENVTENFN	27	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+141	E141	NPQEIHLENVTENFN	27	6&7	2	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	AG Con	
+-	E1490	NPQEIDLENVTENFN	27	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1491	NPQELHLENVTENFN	27	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1492	NPQEVELVNVTENFN	27	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1493	NPQEMVLANVTENFN	27	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1494	NPQEIVLGNVTENFN	27	12&13	2	New	C.ZM651	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+142	E142	EIVLENVTENFNMWK	28	1&4	2	Ori	-	-	-	-	-	-	M Con	-	-	C Con	-	-	-	
+143	E143	EIHLENVTEEFNMWK	28	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+144	E144	EVVLENVTENFNMWK	28	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+145	E145	EIKLENVTENFNMWK	28	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+146	E146	EIHLENVTENFNMWK	28	6&7	2	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	AG Con	
+-	E1495	EIDLENVTENFNMWK	28	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1496	ELHLENVTENFNMWK	28	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1497	EVELVNVTENFNMWK	28	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1498	EMVLANVTENFNMWK	28	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1499	EIVLGNVTENFNMWK	28	12&13	2	New	C.ZM651	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+147	E147	LENVTENFNMWKNNM	29	1&3&5&6&7&8&9	7	Ori	-	-	-	-	AE.TH023	AE.A244	M Con	-	B Con	-	D Con	AE Con	AG Con	
+148	E148	LENVTEEFNMWKNNM	29	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+149	E149	LENVTENFNMWKNDM	29	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+-	E1500	LVNVTENFNMWKNNM	29	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1501	LANVTENFNMWKNDM	29	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1502	LGNVTENFNMWKNDM	29	12&13	2	New	C.ZM651	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+150	E150	VTENFNMWKNNMVEQ	30	1&3&5&6&7&8&9&10	8	Ori	-	-	-	B.MN	AE.TH023	AE.A244	M Con	-	B Con	-	D Con	AE Con	AG Con	
+151	E151	VTEEFNMWKNNMVEQ	30	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+152	E152	VTENFNMWKNDMVDQ	30	4&13	2	Ori	C.ZM651	-	-	-	-	-	-	-	-	C Con	-	-	-	
+-	E1503	VTENFNMWKNDMVEQ	30	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1504	VTENFNMWKNDMADQ	30	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+153	E153	NFNMWKNNMVEQMHE	31	1&3&5&7&10	5	Ori	-	-	-	B.MN	-	-	M Con	-	B Con	-	D Con	-	AG Con	
+154	E154	EFNMWKNNMVEQMHT	31	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+155	E155	NFNMWKNDMVDQMHE	31	4&13	2	Ori	C.ZM651	-	-	-	-	-	-	-	-	C Con	-	-	-	
+156	E156	NFNMWKNNMVEQMQE	31	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1505	NFNMWKNDMVEQMHE	31	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1506	NFNMWKNDMADQMHE	31	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+157	E157	MWKNNMVEQMHEDII	32	1&3&5&7&10	5	Ori	-	-	-	B.MN	-	-	M Con	-	B Con	-	D Con	-	AG Con	
+158	E158	MWKNNMVEQMHTDII	32	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+159	E159	MWKNDMVDQMHEDII	32	4&13	2	Ori	C.ZM651	-	-	-	-	-	-	-	-	C Con	-	-	-	
+160	E160	MWKNNMVEQMQEDVI	32	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1507	MWKNDMVEQMHEDII	32	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1508	MWKNDMADQMHEDVI	32	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+161	E161	NNMVEQMHEDIISLW	33	1&3&5&7&10	5	Ori	-	-	-	B.MN	-	-	M Con	-	B Con	-	D Con	-	AG Con	
+162	E162	NNMVEQMHTDIISLW	33	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+163	E163	NDMVDQMHEDIISLW	33	4&13	2	Ori	C.ZM651	-	-	-	-	-	-	-	-	C Con	-	-	-	
+164	E164	NNMVEQMQEDVISLW	33	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1509	NDMVEQMHEDIISLW	33	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1510	NDMADQMHEDVISLW	33	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+165	E165	VEQMHEDIISLWDQS	34	1&3&5&7&10	5	Ori	-	-	-	B.MN	-	-	M Con	-	B Con	-	D Con	-	AG Con	
+166	E166	VEQMHTDIISLWDQS	34	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+167	E167	VDQMHEDIISLWDQS	34	4&13	2	Ori	C.ZM651	-	-	-	-	-	-	-	-	C Con	-	-	-	
+168	E168	VEQMQEDVISLWDQS	34	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1511	VEQMHEDIISLWDES	34	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1512	ADQMHEDVISLWDQS	34	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+169	E169	MHEDIISLWDQSLKP	35	1&3&4&5&7&10&13	7	Ori	C.ZM651	-	-	B.MN	-	-	M Con	-	B Con	C Con	D Con	-	AG Con	
+170	E170	MHTDIISLWDQSLKP	35	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+171	E171	MQEDVISLWDQSLKP	35	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1513	MHEDIISLWDESLKP	35	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1514	MHEDVISLWDQSLKP	35	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+172	E172	DIISLWDQSLKPCVK	36	1&2&3&4&5&7&10&13	8	Ori	C.ZM651	-	-	B.MN	-	-	M Con	A Con	B Con	C Con	D Con	-	AG Con	
+173	E173	DVISLWDQSLKPCVK	36	6&8&9&12	4	Ori	-	C.TV1	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1515	DIISLWDESLKPCVK	36	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+174	E174	SLWDQSLKPCVKLTP	37	1&2&3&4&5&6&7&8&9&10&12&13	12	Ori	C.ZM651	C.TV1	-	B.MN	AE.TH023	AE.A244	M Con	A Con	B Con	C Con	D Con	AE Con	AG Con	
+-	E1516	SLWDESLKPCVKLTP	37	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+175	E175	DQSLKPCVKLTPLCV	38	1&2&3&4&5&6&7&9&10&12&13	11	Ori	C.ZM651	C.TV1	-	B.MN	AE.TH023	-	M Con	A Con	B Con	C Con	D Con	AE Con	AG Con	
+-	E1517	DQSLKPCVKLTPPCV	38	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1518	DESLKPCVKLTPLCV	38	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+176	E176	LKPCVKLTPLCVTLN	39	1&2&3&4&5&6&7&9&10&11&12&13	12	Ori	C.ZM651	C.TV1	C.1086	B.MN	AE.TH023	-	M Con	A Con	B Con	C Con	D Con	AE Con	AG Con	
+-	E1519	LKPCVKLTPPCVTLH	39	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+																				
+177	E177	CVKLTPLCVTLNCTN	40	1&4&6&9&11	5	Ori	-	-	C.1086	-	AE.TH023	-	M Con	-	-	C Con	-	AE Con	-	
+178	E178	CVKLTPLCVTLNCSN	40	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+179	E179	CVKLTPLCVTLNCTD	40	3&5&10&12	4	Ori	-	C.TV1	-	B.MN	-	-	-	-	B Con	-	D Con	-	-	
+180	E180	CVKLTPLCVTLNCHN	40	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1520	CVKLTPPCVTLHCTN	40	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1935	CVKLTPLCVTLNCTE	40	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+181	E181	LTPLCVTLNCTNVNN	41	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+182	E182	LTPLCVTLNCSNVNN	41	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+183	E183	LTPLCVTLNCTDLNN	41	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+184	E184	LTPLCVTLNCTNVNV	41	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+185	E185	LTPLCVTLNCTDWKN	41	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+186	E186	LTPLCVTLNCTNANL	41	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+187	E187	LTPLCVTLNCHNVNN	41	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1521	LTPPCVTLHCTNANL	41	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1522	LTPLCVTLNCTNANV	41	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1523	LTPLCVTLNCTDLRN	41	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1524	LTPLCVTLNCTNVKG	41	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1525	LTPLCVTLNCTDTNV	41	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1936	LTPLCVTLNCTEVNV	41	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+188	E188	LCVTLNCTNVNNNNT	42	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+189	E189	LCVTLNCSNVNNNNT	42	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+190	E190	LCVTLNCTDLNNNTT	42	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+191	E191	LCVTLNCTNVNVNNT	42	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+192	E192	LCVTLNCTDWKNNNT	42	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+193	E193	LCVTLNCTNANLTNV	42	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+194	E194	LCVTLNCHNVNNSNS	42	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1526	PCVTLHCTNANLTKA	42	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1527	LCVTLNCTNANVTNV	42	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1528	LCVTLNCTDLRNTTN	42	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1529	LCVTLNCTNVKGNES	42	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1530	LCVTLNCTDTNVTGN	42	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1937	LCVTLNCTEVNVTRN	42	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+195	E195	TLNCTNVNNNNTNIT	43	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+196	E196	TLNCSNVNNNNTNIT	43	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+197	E197	TLNCTDLNNNTTTTN	43	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+198	E198	TLNCTNVNVNNTN	43	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+199	E199	TLNCTDWKNNNTTNN	43	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+200	E200	TLNCTNANLTNVNNT	43	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+201	E201	TLNCHNVNNSNSNIS	43	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1531a	TLHCTNANLTKANLT	43	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1531b	CTNANLTKANLTNVN	43	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1531c	ANLTKANLTNVNNRT	43	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1531d	TKANLTNVNNRTNVS	43	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1531e	NLTNVNNRTNVSNII	43	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1532a	TLNCTNANVTNVKNI	43	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1532b	CTNANVTNVKNITNV	43	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1532c	ANVTNVKNITNVPNI	43	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1532d	NVTNVKNITNVPNII	43	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1533a	TLNCTDLRNTTNTNN	43	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1533b	CTDLRNTTNTNNSTD	43	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1533c	LRNTTNTNNSTDNNN	43	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1533d	TTNTNNSTDNNNSKS	43	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1533e	NTNNSTDNNNSKSEG	43	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1534	TLNCTNVKGNESDTS	43	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1535a	TLNCTDTNVTGNRTV	43	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1535b	CTDTNVTGNRTVTGN	43	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1535c	TNVTGNRTVTGNSTN	43	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1535d	TGNRTVTGNSTNNKK	43	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1535e	RTVTGNSTNNKKGTG	43	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1535f	TGNSTNNKKGTGTNG	43	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1535g	STNNKKGTGTNGTGI	43	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1938	TLNCTEVNVTRNVNN	43	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+202	E202	CTNVNNNNTNITSNM	44	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+203	E203	CSNVNNNNTNITSDM	44	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+204	E204	CTDLNNNTTTTNSSS	44	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+205	E205	CTNVNVNNTNNSM	44	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+206	E206	CTDWKNNNTTNNTTT	44	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+207	E207	CTNANLTNVNNTTNV	44	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+208	E208	CHNVNNSNSNISSNM	44	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1536	NVNNRTNVSNIIGNI	44	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1537	NVKNITNVPNIIGNI	44	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1538	NSTDNNNSKSEGTIK	44	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1539	CTNVKGNESDTSEVM	44	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1540	NNKKGTGTNGTGIYN	44	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1939	CTEVNVTRNVNNSVV	44	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+209	E209	VNNNNTNITSNMKGE	45	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+210	E210	VNNNNTNITSDMKEE	45	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+211	E211	LNNNTTTTNSSSEKM	45	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+212	E212	VNVNNTNNSMKGE	45	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+213	E213	WKNNNTTNNTTTEDI	45	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+214	E214	ANLTNVNNTTNVSNI	45	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+215	E215	VNNSNSNISSNMQGE	45	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1541	NRTNVSNIIGNITDE	45	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1542	NITNVPNIIGNITDE	45	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1543	DNNNSKSEGTIKGGE	45	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1545	KGTGTNGTGIYNIEE	45	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1940	VNVTRNVNNSVVNNT	45	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+216	E216	NNTNITSNMKGEIKN	46	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+217	E217	NNTNITSDMKEEIKN	46	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+218	E218	NTTTTNSSSEKMEKG	46	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+219	E219	NNTNNSMKGEIKN	46	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+220	E220	NNTTNNTTTEDIEMK	46	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+221	E221	TNVNNTTNVSNIIGN	46	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+222	E222	SNSNISSNMQGEIKN	46	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1546	NVSNIIGNITDEVRN	46	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1547	NVPNIIGNITDEVRN	46	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1548	NSKSEGTIKGGEMKN	46	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1549	VKGNESDTSEVMKNC	46	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1550	GTNGTGIYNIEEMKN	46	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1941	TRNVNNSVVNNTTNV	46	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+223	E223	NITSNMKGEIKNCSF	47	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+224	E224	NITSDMKEEIKNCSF	47	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+225	E225a	TTNSSSEKMEKGEIK	47	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+226	E226b	SSSEKMEKGEIKNCS	47	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+227	E227c	SSEKMEKGEIKNCSF	47	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+228	E228	NNSMKGEIKNCSF	47	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+229	E229a	TNNTTTEDIEMKNCS	47	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+230	E230b	NNTTTEDIEMKNCSF	47	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+231	E231a	NNTTNVSNIIGNITD	47	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+232	E232b	TNVSNIIGNITDEVR	47	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+233	E233c	NIIGNITDEVRNCSF	47	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+234	E234	NISSNMQGEIKNCSF	47	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1553	SEGTIKGGEMKNCSF	47	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1554	NESDTSEVMKNCSFK	47	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1555	GTGIYNIEEMKNCSF	47	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1942a	VNNSVVNNTTNVNNS	47	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E1942b	SVVNNTTNVNNSMNG	47	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E1942c	NNTTNVNNSMNGDMK	47	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E1942d	TNVNNSMNGDMKNCS	47	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E1942e	NVNNSMNGDMKNCSF	47	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+235	E235	SNMKGEIKNCSFNMT	48	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+236	E236	SDMKEEIKNCSFNMT	48	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+237	E237	KMEKGEIKNCSFNIT	48	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+238	E238	NSMKGEIKNCSFNTT	48	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+239	E239	TTEDIEMKNCSFNIT	48	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+240	E240	GNITDEVRNCSFNMT	48	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+241	E241	SNMQGEIKNCSFNMT	48	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1556	TIKGGEMKNCSFNIT	48	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1557	DTSEVMKNCSFKATT	48	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1558	IYNIEEMKNCSFNVT	48	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1943	NSMNGDMKNCSFNIT	48	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+242	E242	KGEIKNCSFNMTTEI	49	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+243	E243	KEEIKNCSFNMTTEL	49	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+244	E244	KGEIKNCSFNITTSI	49	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+245	E245	KGEIKNCSFNTTTEI	49	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+246	E246	DIEMKNCSFNITTEV	49	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+247	E247	TDEVRNCSFNMTTEL	49	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+248	E248	QGEIKNCSFNMTTEL	49	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1559	GGEMKNCSFNITTSI	49	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1560	SEVMKNCSFKATTEL	49	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1561	IEEMKNCSFNVTTEL	49	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1944	NGDMKNCSFNITTEL	49	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+249	E249	IKNCSFNMTTEIRDK	50	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+250	E250	IKNCSFNMTTELRDK	50	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+251	E251	IKNCSFNITTSIRDK	50	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+252	E252	IKNCSFNTTTEIRDK	50	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+253	E253	MKNCSFNITTEVRDK	50	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+254	E254	VRNCSFNMTTELRDK	50	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1562	MKNCSFNITTSIGDK	50	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1563	MKNCSFKATTELKDK	50	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1564	MKNCSFNVTTELRNK	50	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1945	MKNCSFNITTELKDK	50	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+255	E255	CSFNMTTEIRDKKQK	51	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+256	E256	CSFNMTTELRDKKQK	51	2&6&7&8&9	5	Ori	-	-	-	-	AE.TH023	AE.A244	-	A Con	-	-	-	AE Con	AG Con	
+257	E257	CSFNITTSIRDKVQK	51	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+258	E258	CSFNTTTEIRDKKQK	51	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+259	E259	CSFNITTEVRDKKKQ	51	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+-	E1565	CSFNITTSIGDKMQK	51	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1566	CSFKATTELKDKKHK	51	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1567	CSFNVTTELRNKKHK	51	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1946	CSFNITTELKDKKKN	51	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+260	E260	NMTTEIRDKKQKVYA	52	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+261	E261	NMTTELRDKKQKVYS	52	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+262	E262	NITTSIRDKVQKEYA	52	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+263	E263	NTTTEIRDKKQKVYA	52	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+264	E264	NITTEVRDKKKQVYA	52	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+265	E265	NMTTELRDKKQKVYA	52	6&7	2	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	AG Con	
+-	E1568	NMTTELRDKKQKVHA	52	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1569	NITTSIGDKMQKEYA	52	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1570	KATTELKDKKHKVHA	52	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1571	NVTTELRNKKHKEYA	52	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1947	NITTELKDKKKNVYA	52	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+266	E266	TEIRDKKQKVYALFY	53	1&4	2	Ori	-	-	-	-	-	-	M Con	-	-	C Con	-	-	-	
+267	E267	TELRDKKQKVYSLFY	53	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+268	E268	TSIRDKVQKEYALFY	53	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+269	E269	TEVRDKKKQVYALFY	53	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+270	E270	TELRDKKQKVYALFY	53	6&7	2	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	AG Con	
+-	E1572	TELRDKKQKVHALFY	53	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1573	TSIGDKMQKEYALLY	53	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1574	TELKDKKHKVHALFY	53	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1575	TELRNKKHKEYALFY	53	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1948	TELKDKKKNVYALFY	53	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+271	E271	RDKKQKVYALFYRLD	54	1&4&7	3	Ori	-	-	-	-	-	-	M Con	-	-	C Con	-	-	AG Con	
+272	E272	RDKKQKVYSLFYRLD	54	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+273	E273	RDKVQKEYALFYKLD	54	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+274	E274	RDKKKQVYALFYKLD	54	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+275	E275	RDKKQKVYALFYKLD	54	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1576	RDKKQKVHALFYKLD	54	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1577	GDKMQKEYALLYKLD	54	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1578	KDKKHKVHALFYKLD	54	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1579	RNKKHKEYALFYRLD	54	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1949	KDKKKNVYALFYKLD	54	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+276	E276	KQKVYALFYRLDVVP	55	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+277	E277	KQKVYSLFYRLDVVQ	55	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+278	E278	VQKEYALFYKLDVVP	55	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+279	E279	KQKVYALFYRLDIVP	55	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+280	E280	KKQVYALFYKLDVVP	55	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+281	E281	KQKVYALFYKLDIVQ	55	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+282	E282	KQKVYALFYRLDVVQ	55	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1580	KQKVHALFYKLDIVP	55	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1581	MQKEYALLYKLDIEP	55	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1582	KHKVHALFYKLDVVP	55	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1583	KHKEYALFYRLDIVS	55	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1950	KKNVYALFYKLDIVS	55	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+283	E283	VYALFYRLDVVPINN	56	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+284	E284	VYSLFYRLDVVQINE	56	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+285	E285	EYALFYKLDVVPIDN	56	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+286	E286	VYALFYRLDIVPLNE	56	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+287	E287	VYALFYKLDVVPIDN	56	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+288	E288	VYALFYKLDIVQIEN	56	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+289	E289	VYALFYRLDVVQINE	56	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1584	VHALFYKLDIVPIED	56	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1585	EYALLYKLDIEPIDN	56	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1586	VHALFYKLDVVPLNG	56	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1587	EYALFYRLDIVSLNN	56	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1951	VYALFYKLDIVSLNE	56	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+290	E290	LFYRLDVVPINNNSS	57	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+291	E291	LFYRLDVVQINENSN	57	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+292	E292	LFYKLDVVPIDNDNT	57	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+293	E293	LFYRLDIVPLNENNS	57	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+294	E294	LFYKLDVVPIDNNNN	57	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+295	E295	LFYKLDIVQIENNNS	57	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+296	E296	LFYRLDVVQINENNS	57	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1588a	LFYKLDIVPIEDNND	57	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1588b	YKLDIVPIEDNNDSS	57	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1589a	LFYKLDIVPIEDNTS	57	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1589b	YKLDIVPIEDNTSSS	57	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1590	LLYKLDIEPIDNDST	57	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1591a	LFYKLDVVPLNGNSS	57	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1591b	KLDVVPLNGNSSSSG	57	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1591c	DVVPLNGNSSSSGEY	57	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1592	LFYRLDIVSLNNKPN	57	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1952	LFYKLDIVSLNETDD	57	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+297	E297	RLDVVPINNNSSEYR	58	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+298	E298	RLDVVQINENSNSSE	58	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+299	E299	KLDVVPIDNDNTSYR	58	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+300	E300	RLDIVPLNENNSSEY	58	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+301	E301	KLDVVPIDNNNNTSY	58	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+302	E302	KLDIVQIENNNSSEY	58	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+303	E303	RLDVVQINENNSSQY	58	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1593	DIVPIEDNNDSSEYR	58	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1594	DIVPIEDNTSSSEYR	58	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1595	KLDIEPIDNDSTSYR	58	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1596	PLNGNSSSSGEYRLI	58	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1597	RLDIVSLNNKPNEYR	58	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1953	KLDIVSLNETDDSET	58	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+304	E304	VVPINNNSSEYRLIN	59	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+305	E305	VVQINENSNSSEYRL	59	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+306	E306	VVPIDNDNTSYRLIS	59	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+307	E307	IVPLNENNSSEYRLI	59	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+308	E308	VVPIDNNNNTSYRLI	59	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+309	E309	IVQIENNNSSEYRLI	59	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+310	E310	VVQINENNSSQYRLI	59	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1598	PIEDNNDSSEYRLIN	59	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1599	PIEDNTSSSEYRLIN	59	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1600	IEPIDNDSTSYRLIS	59	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1601	NGNSSSSGEYRLINC	59	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1602	IVSLNNKPNEYRLIN	59	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1954	IVSLNETDDSETGNS	59	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+311	E311	INNNSSEYRLINCNT	60	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+312	E312	INENSNSSEYRLINC	60	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+313	E313	IDNDNTSYRLISCNT	60	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+314	E314	LNENNSSEYRLINCN	60	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+315	E315	IDNNNNTSYRLINCN	60	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+316	E316	IENNNSSEYRLINCN	60	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+317	E317	INENNSSQYRLINCN	60	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1603	DNNDSSEYRLINCNT	60	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1604	DNTSSSEYRLINCNT	60	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1605	IDNDSTSYRLISCNT	60	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1606	NSSSSGEYRLINCNT	60	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1607	LNNKPNEYRLINCNT	60	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1955	LNETDDSETGNSSKY	60	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+318	E318	NSSEYRLINCNTSAI	61	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+319	E319a	NSNSSEYRLINCNTS	61	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+321	E321	DNTSYRLISCNTSVI	61	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+322	E322a	NNSSEYRLINCNTST	61	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+323	E323b	NSSEYRLINCNTSTI	61	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+324	E324a	NNNTSYRLINCNTSA	61	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+325	E325b	NNTSYRLINCNTSAI	61	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+326	E326a	NNSSEYRLINCNTSV	61	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+327	E327b	NSSEYRLINCNTSVI	61	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+328	E328a	NNSSQYRLINCNTSA	61	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+329	E329b	NSSQYRLINCNTSAI	61	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1608	DSSEYRLINCNTSVI	61	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1609	SSSEYRLINCNTSVI	61	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1610	DSTSYRLISCNTSVI	61	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1611	SSGEYRLINCNTSAI	61	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1612	KPNEYRLINCNTSAI	61	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1956a	TDDSETGNSSKYYRL	61	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E1956b	SETGNSSKYYRLINC	61	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E1956c	GNSSKYYRLINCNTS	61	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E1956d	SSKYYRLINCNTSAL	61	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+																				
+																				
+																				
+330	E330	EYRLINCNTSAITQA	62	1&2&11&12	4	Ori	-	C.TV1	C.1086	-	-	-	M Con	A Con	-	-	-	-	-	
+331	E331	SYRLISCNTSVITQA	62	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+332	E332	EYRLINCNTSTITQA	62	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+333	E333	SYRLINCNTSAITQA	62	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+334	E334	EYRLINCNTSVIKQA	62	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+335	E335	QYRLINCNTSAITQA	62	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1613	EYRLINCNTSVIKQP	62	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1957	YYRLINCNTSALTQA	62	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+336	E336	LINCNTSAITQACPK	63	1&2&5&7&11&12	6	Ori	-	C.TV1	C.1086	-	-	-	M Con	A Con	-	-	D Con	-	AG Con	
+337	E337	LISCNTSVITQACPK	63	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+338	E338	LINCNTSTITQACPK	63	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+339	E339	LINCNTSVIKQACPK	63	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1614	LINCNTSVIKQPCPK	63	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1958	LINCNTSALTQACPK	63	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+340	E340	CNTSAITQACPKVSF	64	1&2&7&11&12	5	Ori	-	C.TV1	C.1086	-	-	-	M Con	A Con	-	-	-	-	AG Con	
+341	E341	CNTSVITQACPKVSF	64	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+342	E342	CNTSTITQACPKVSF	64	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+343	E343	CNTSAITQACPKVTF	64	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+344	E344	CNTSVIKQACPKISF	64	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1615	CNTSVIKQPCPKISF	64	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1616	CNTSVITQACPKISF	64	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1959	CNTSALTQACPKVSF	64	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+345	E345	SAITQACPKVSFEPI	65	1&2&7	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	AG Con	
+346	E346	SVITQACPKVSFEPI	65	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+347	E347	STITQACPKVSFDPI	65	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+348	E348	SAITQACPKVTFEPI	65	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+349	E349	SVIKQACPKISFDPI	65	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1617	SVIKQPCPKISFDPI	65	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1618	SVITQACPKISFEPI	65	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1619	SAITQACPKVSFDPI	65	11&12	2	New	-	C.TV1	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1960	SALTQACPKVSFDPI	65	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+350	E350	TQACPKVSFEPIPIH	66	1&2&3&7	4	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	-	-	AG Con	
+351	E351	TQACPKVSFDPIPIH	66	4&12&13	3	Ori	C.ZM651	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+352	E352	TQACPKVTFEPIPIH	66	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+353	E353	KQACPKISFDPIPIH	66	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1620	KQPCPKISFDPIPIH	66	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1621	TQACPKISFEPIPIH	66	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1622	TQACPKVSFDPIPLH	66	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+354	E354	CPKVSFEPIPIHYCA	67	1&2&3&7	4	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	-	-	AG Con	
+355	E355	CPKVSFDPIPIHYCA	67	4&12&13	3	Ori	C.ZM651	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+356	E356	CPKVTFEPIPIHYCA	67	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+357	E357	CPKISFDPIPIHYCT	67	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1623	CPKISFEPIPIHYCA	67	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1624	CPKVSFDPIPLHYCA	67	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+358	E358	VSFEPIPIHYCAPAG	68	1&2&3&7	4	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	-	-	AG Con	
+359	E359	VSFDPIPIHYCAPAG	68	4&12&13	3	Ori	C.ZM651	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+360	E360	VTFEPIPIHYCAPAG	68	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+361	E361	ISFDPIPIHYCTPAG	68	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1625	ISFEPIPIHYCAPAG	68	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1626	VSFDPIPLHYCAPAG	68	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+362	E362	EPIPIHYCAPAGFAI	69	1&2&3&5&7&10	6	Ori	-	-	-	B.MN	-	-	M Con	A Con	B Con	-	D Con	-	AG Con	
+363	E363	DPIPIHYCAPAGYAI	69	4&12&13	3	Ori	C.ZM651	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+364	E364	DPIPIHYCTPAGYAI	69	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1627	DPIPLHYCAPAGFAI	69	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+365	E365	PIHYCAPAGFAILKC	70	1&2&3&5&7&10	6	Ori	-	-	-	B.MN	-	-	M Con	A Con	B Con	-	D Con	-	AG Con	
+366	E366	PIHYCAPAGYAILKC	70	4&12&13	3	Ori	C.ZM651	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+367	E367	PIHYCTPAGYAILKC	70	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1628	PLHYCAPAGFAILKC	70	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+368	E368	YCAPAGFAILKCNDK	71	1&3&5&7&10	5	Ori	-	-	-	B.MN	-	-	M Con	-	B Con	-	D Con	-	AG Con	
+369	E369	YCAPAGFAILKCKDK	71	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+370	E370	YCAPAGYAILKCNNK	71	4&12&13	3	Ori	C.ZM651	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+371	E371	YCTPAGYAILKCNDK	71	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1629	YCAPAGFAILKCNNK	71	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+372	E372	PAGFAILKCNDKTFN	72	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+373	E373	PAGFAILKCKDKEFN	72	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+374	E374	PAGFAILKCNDKKFN	72	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+375	E375	PAGYAILKCNNKTFN	72	4&12&13	3	Ori	C.ZM651	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+376	E376	PAGYAILKCNDKNFN	72	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+377	E377	PAGFAILKCNDKEFN	72	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1630	PAGFAILKCNDKKFS	72	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1631	PAGFAILKCNNKTFN	72	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+378	E378	FAILKCNDKTFNGTG	73	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+379	E379	FAILKCKDKEFNGTG	73	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+380	E380	FAILKCNDKKFNGTG	73	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+381	E381	YAILKCNNKTFNGTG	73	4&12&13	3	Ori	C.ZM651	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+382	E382	YAILKCNDKNFNGTG	73	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+383	E383	FAILKCNDKEFNGTG	73	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1632	FAILKCNDKKFSGKG	73	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1633	FAILKCNNKTFNGTG	73	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+384	E384	LKCNDKTFNGTGPCK	74	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+385	E385	LKCKDKEFNGTGPCK	74	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+386	E386	LKCNDKKFNGTGPCT	74	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+387	E387	LKCNNKTFNGTGPCN	74	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+388	E388	LKCNDKKFNGTGPCK	74	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+389	E389	LKCNDKNFNGTGPCK	74	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+390	E390	LKCNDKEFNGTGPCK	74	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1634	LKCNDKKFSGKGSCK	74	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1635	LKCNNKTFNGTGPCR	74	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1636	LKCNNKTFNGTGPCY	74	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1961	LKCNNKTFNGTGPCH	74	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+391	E391	NDKTFNGTGPCKNVS	75	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+392	E392	KDKEFNGTGPCKNVS	75	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+393	E393	NDKKFNGTGPCTNVS	75	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+394	E394	NNKTFNGTGPCNNVS	75	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+395	E395	NDKKFNGTGPCKNVS	75	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+396	E396	NDKNFNGTGPCKNVS	75	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+397	E397	NDKEFNGTGPCKNVS	75	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1637	NDKKFSGKGSCKNVS	75	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1638	NNKTFNGTGPCRNVS	75	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1639	NNKTFNGTGPCYNVS	75	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1962	NNKTFNGTGPCHNVS	75	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+398	E398	TFNGTGPCKNVSTVQ	76	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+399	E399	EFNGTGPCKNVSTVQ	76	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+400	E400	KFNGTGPCTNVSTVQ	76	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+401	E401	TFNGTGPCNNVSTVQ	76	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+402	E402	KFNGTGPCKNVSTVQ	76	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+403	E403	NFNGTGPCKNVSSVQ	76	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1640	KFSGKGSCKNVSTVQ	76	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1641	TFNGTGPCRNVSTVQ	76	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1642	TFNGTGPCYNVSTVQ	76	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1963	TFNGTGPCHNVSTVQ	76	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+404	E404	GTGPCKNVSTVQCTH	77	1&2&5&7	4	Ori	-	-	-	-	-	-	M Con	A Con	-	-	D Con	-	AG Con	
+405	E405	GTGPCTNVSTVQCTH	77	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+406	E406	GTGPCNNVSTVQCTH	77	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+407	E407	GTGPCKNVSSVQCTH	77	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1643	GKGSCKNVSTVQCTH	77	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1644	GTGPCRNVSTVQCTH	77	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1645	GTGPCYNVSTVQCTH	77	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1964	GTGPCHNVSTVQCTH	77	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+408	E408	PCKNVSTVQCTHGIK	78	1&2&5&7	4	Ori	-	-	-	-	-	-	M Con	A Con	-	-	D Con	-	AG Con	
+409	E409	PCTNVSTVQCTHGIR	78	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+410	E410	PCNNVSTVQCTHGIK	78	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+411	E411	PCKNVSSVQCTHGIK	78	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1646	SCKNVSTVQCTHGIR	78	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1647	PCRNVSTVQCTHGIK	78	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1648	PCYNVSTVQCTHGIR	78	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1965	PCHNVSTVQCTHGIK	78	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+412	E412	NVSTVQCTHGIKPVV	79	1&2&4&5&7&11&13	7	Ori	C.ZM651	-	C.1086	-	-	-	M Con	A Con	-	C Con	D Con	-	AG Con	
+413	E413	NVSTVQCTHGIRPVV	79	3&10&12	3	Ori	-	C.TV1	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+414	E414	NVSSVQCTHGIKPVV	79	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+																				
+415	E415	TVQCTHGIKPVVSTQ	80	1&2&4&5&7&11&13	7	Ori	C.ZM651	-	C.1086	-	-	-	M Con	A Con	-	C Con	D Con	-	AG Con	
+416	E416	TVQCTHGIRPVVSTQ	80	3&10&12	3	Ori	-	C.TV1	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+417	E417	SVQCTHGIKPVVSTQ	80	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+																				
+418	E418	CTHGIKPVVSTQLLL	81	1&2&4&5&6&7&8&9&11&13	10	Ori	C.ZM651	-	C.1086	-	AE.TH023	AE.A244	M Con	A Con	-	C Con	D Con	AE Con	AG Con	
+419	E419	CTHGIRPVVSTQLLL	81	3&10&12	3	Ori	-	C.TV1	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+																				
+420	E420	GIKPVVSTQLLLNGS	82	1&2&4&5&6&7&8&9&11&13	10	Ori	C.ZM651	-	C.1086	-	AE.TH023	AE.A244	M Con	A Con	-	C Con	D Con	AE Con	AG Con	
+421	E421	GIRPVVSTQLLLNGS	82	3&10&12	3	Ori	-	C.TV1	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+																				
+422	E422	PVVSTQLLLNGSLAE	83	1&2&3&4&5&6&7&8&9&10&11&12&13	13	Ori	C.ZM651	C.TV1	C.1086	B.MN	AE.TH023	AE.A244	M Con	A Con	B Con	C Con	D Con	AE Con	AG Con	
+																				
+423	E423	STQLLLNGSLAEEEI	84	1&4&5&6&7&8&9&11	8	Ori	-	-	C.1086	-	AE.TH023	AE.A244	M Con	-	-	C Con	D Con	AE Con	AG Con	
+424	E424	STQLLLNGSLAEGEV	84	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+425	E425	STQLLLNGSLAEEEV	84	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+-	E1649	STQLLLNGSLAEGEI	84	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1966	STQLLLNGSLAEEGI	84	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+426	E426	LLLNGSLAEEEIIIR	85	1&4&5&6&8&9&11	7	Ori	-	-	C.1086	-	AE.TH023	AE.A244	M Con	-	-	C Con	D Con	AE Con	-	
+427	E427	LLLNGSLAEGEVMIR	85	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+428	E428	LLLNGSLAEEEVVIR	85	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+429	E429	LLLNGSLAEEEIVIR	85	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1650	LLLNGSLAEGEIIIR	85	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1967	LLLNGSLAEEGIIIR	85	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+430	E430	NGSLAEEEIIIRSEN	86	1&4&5&6&8&9&11	7	Ori	-	-	C.1086	-	AE.TH023	AE.A244	M Con	-	-	C Con	D Con	AE Con	-	
+431	E431	NGSLAEGEVMIRSEN	86	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+432	E432	NGSLAEEEVVIRSEN	86	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+433	E433	NGSLAEEEIVIRSEN	86	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1651	NGSLAEEEVVIRSED	86	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1652	NGSLAEGEIIIRSEN	86	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1968	NGSLAEEGIIIRSEN	86	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+434	E434	LAEEEIIIRSENITN	87	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+435	E435	LAEGEVMIRSENITN	87	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+436	E436	LAEEEVVIRSENFTD	87	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+437	E437	LAEEEIIIRSENLTN	87	4&5&6&8&9&11	6	Ori	-	-	C.1086	-	AE.TH023	AE.A244	-	-	-	C Con	D Con	AE Con	-	
+438	E438	LAEEEIVIRSENITN	87	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1653	LAEEEVVIRSEDFTD	87	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1654	LAEGEIIIRSENLTE	87	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1969	LAEEGIIIRSENLTN	87	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+439	E439	EEIIIRSENITNNAK	88	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+440	E440	GEVMIRSENITNNAK	88	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+441	E441	EEVVIRSENFTDNAK	88	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+442	E442	EEIIIRSENLTNNAK	88	4&5&6&8&9&11	6	Ori	-	-	C.1086	-	AE.TH023	AE.A244	-	-	-	C Con	D Con	AE Con	-	
+443	E443	EEIVIRSENITNNAK	88	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1655	EEVVIRSEDFTDNAK	88	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1656	GEIIIRSENLTENTK	88	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1970	EGIIIRSENLTNNVK	88	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+444	E444	IIRSENITNNAKTII	89	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+445	E445	MIRSENITNNAKNII	89	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+446	E446	VIRSENFTDNAKTII	89	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+447	E447	IIRSENLTNNAKTII	89	4&6&8&9&11	5	Ori	-	-	C.1086	-	AE.TH023	AE.A244	-	-	-	C Con	-	AE Con	-	
+448	E448	IIRSENLTNNAKIII	89	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+449	E449	VIRSENITNNAKTII	89	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1657	VIRSEDFTDNAKTII	89	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1658	IIRSENLTENTKTII	89	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1971	IIRSENLTNNVKTII	89	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+450	E450	SENITNNAKTIIVQL	90	1&7	2	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	AG Con	
+451	E451	SENITNNAKNIIVQL	90	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+452	E452	SENFTDNAKTIIVQL	90	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+453	E453	SENLTNNAKTIIVHL	90	4&6&8&9&11	5	Ori	-	-	C.1086	-	AE.TH023	AE.A244	-	-	-	C Con	-	AE Con	-	
+454	E454	SENLTNNAKIIIVQL	90	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+-	E1659	SEDFTDNAKTIIVHL	90	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1660	SENLTENTKTIIVHL	90	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1972	SENLTNNVKTIIVHL	90	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+455	E455	ITNNAKTIIVQLNES	91	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+456	E456	ITNNAKNIIVQLTEP	91	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+457	E457	FTDNAKTIIVQLNES	91	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+458	E458	LTNNAKTIIVHLNES	91	4&11	2	Ori	-	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+459	E459	LTNNAKIIIVQLNES	91	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+460	E460	LTNNAKTIIVHLNKS	91	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+461	E461	ITNNAKTIIVQLNEP	91	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1661	FTDNAKTIIVHLKES	91	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1662	LTENTKTIIVHLNES	91	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1973	LTNNVKTIIVHLNRS	91	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+462	E462	NAKTIIVQLNESVEI	92	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+463	E463	NAKNIIVQLTEPVKI	92	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+464	E464	NAKTIIVHLNESVEI	92	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+465	E465	NAKIIIVQLNESVTI	92	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+466	E466	NAKTIIVHLNKSVEI	92	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+467	E467	NAKTIIVQLNEPVKI	92	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1663	NAKTIIVHLNKSVVI	92	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1664	NAKTIIVHLKESVQI	92	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1665	NAKTIIVHLNESVNI	92	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1666	NTKTIIVHLNESIEI	92	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1974	NVKTIIVHLNRSIEI	92	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+468	E468	TIIVQLNESVEINCT	93	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+469	E469	NIIVQLTEPVKINCT	93	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+470	E470	TIIVHLNESVEIVCT	93	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+471	E471	IIIVQLNESVTINCT	93	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+472	E472	TIIVHLNKSVEINCT	93	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+473	E473	TIIVQLNEPVKINCT	93	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1667	TIIVHLNKSVVINCT	93	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1668	TIIVHLKESVQINCT	93	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1669	TIIVHLNESVNIVCT	93	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1670	TIIVHLNESIEINCT	93	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1975	TIIVHLNRSIEIVCV	93	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+474	E474	VQLNESVEINCTRPN	94	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+475	E475	VQLTEPVKINCTRPN	94	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+476	E476	VHLNESVEIVCTRPN	94	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+477	E477	VQLNESVTINCTRPY	94	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+478	E478	VHLNKSVEINCTRPS	94	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+479	E479	VQLNEPVKINCTRPG	94	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1671	VHLNKSVVINCTRPS	94	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1672	VHLKESVQINCTRPN	94	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1673	VHLNESVNIVCTRPN	94	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1674	VHLNESIEINCTRPN	94	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1976	VHLNRSIEIVCVRPN	94	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+480	E480	NESVEINCTRPNNNT	95	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+481	E481	TEPVKINCTRPNNNT	95	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+482	E482	NESVEIVCTRPNNNT	95	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+483	E483	NESVTINCTRPYNNT	95	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+484	E484	NKSVEINCTRPSNNT	95	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+485	E485	NEPVKINCTRPGNNT	95	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1675	NKSVVINCTRPSNNT	95	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1676	KESVQINCTRPNYNK	95	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1677	NESVNIVCTRPNNNT	95	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1678	NESIEINCTRPNNNT	95	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1977	NRSIEIVCVRPNNNT	95	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+486	E486	VEINCTRPNNNTRKS	96	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+487	E487	VKINCTRPNNNTRKS	96	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+488	E488	VEIVCTRPNNNTRKS	96	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+489	E489	VTINCTRPYNNTRQS	96	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+490	E490	VEINCTRPSNNTRTS	96	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+491	E491	VKINCTRPGNNTRKS	96	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1679	VVINCTRPSNNTRTS	96	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1680	VQINCTRPNYNKRKR	96	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1681	VNIVCTRPNNNTRKS	96	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1682	IEINCTRPNNNTRKS	96	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1978	IEIVCVRPNNNTRQS	96	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+492	E492	NCTRPNNNTRKSIHI	97	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+493	E493	NCTRPNNNTRKSVRI	97	2&12	2	Ori	-	C.TV1	-	-	-	-	-	A Con	-	-	-	-	-	
+494	E494	VCTRPNNNTRKSIRI	97	4&11	2	Ori	-	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+495	E495	NCTRPYNNTRQSTHI	97	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+496	E496	NCTRPSNNTRTSITI	97	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+497	E497	NCTRPGNNTRKSVRI	97	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1683	NCTRPSNNTRTSINI	97	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1684	NCTRPNYNKRKRIHI	97	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1979	VCVRPNNNTRQSIRI	97	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+498	E498	RPNNNTRKSIHIGPG	98	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+499	E499	RPNNNTRKSVRIGPG	98	2&12	2	Ori	-	C.TV1	-	-	-	-	-	A Con	-	-	-	-	-	
+500	E500	RPNNNTRKSIRIGPG	98	4&11	2	Ori	-	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+501	E501	RPYNNTRQSTHIGPG	98	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+502	E502	RPSNNTRTSITIGPG	98	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+503	E503	RPGNNTRKSVRIGPG	98	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1685	RPSNNTRTSINIGPG	98	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1686	RPNYNKRKRIHIGPG	98	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1980	RPNNNTRQSIRIGPG	98	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+504	E504	NNTRKSIHIGPGQAF	99	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+505	E505	NNTRKSVRIGPGQAF	99	2&12	2	Ori	-	C.TV1	-	-	-	-	-	A Con	-	-	-	-	-	
+506	E506	NNTRKSIHIGPGRAF	99	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+507	E507	NNTRKSIRIGPGQTF	99	4&11	2	Ori	-	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+508	E508	NNTRQSTHIGPGQAL	99	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+509	E509	NNTRTSITIGPGQVF	99	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+510	E510	NNTRKSVRIGPGQTF	99	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1687	NNTRTSINIGPGQVF	99	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1688	YNKRKRIHIGPGRAF	99	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1981	NNTRQSIRIGPGQTF	99	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+511	E511	RKSIHIGPGQAFYAT	100	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+512	E512	RKSVRIGPGQAFYAT	100	2&12	2	Ori	-	C.TV1	-	-	-	-	-	A Con	-	-	-	-	-	
+513	E513	RKSIHIGPGRAFYAT	100	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+514	E514	RKSIRIGPGQTFYAT	100	4&11	2	Ori	-	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+515	E515	RQSTHIGPGQALYTT	100	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+516	E516	RTSITIGPGQVFYRT	100	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+517	E517	RKSVRIGPGQTFYAT	100	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1689	RTSINIGPGQVFYRT	100	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1690	RKRIHIGPGRAFYTT	100	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1982	RQSIRIGPGQTFYAT	100	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+518	E518	IHIGPGQAFYATGDI	101	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+519	E519	VRIGPGQAFYATGDI	101	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+520	E520	IHIGPGRAFYATGDI	101	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+521	E521	IRIGPGQTFYATGDI	101	4&11&13	3	Ori	C.ZM651	-	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+522	E522	THIGPGQALYTTRI	101	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+523	E523	ITIGPGQVFYRTGDI	101	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+524	E524	VRIGPGQTFYATGDI	101	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1691	INIGPGQVFYRTGDI	101	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1692	IHIGPGRAFYTTKNI	101	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1693	VRIGPGQAFYATNDV	101	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+525	E525	GPGQAFYATGDIIGD	102	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+526	E526	GPGRAFYATGDIIGD	102	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+527	E527	GPGQTFYATGDIIGD	102	4&7&13	3	Ori	C.ZM651	-	-	-	-	-	-	-	-	C Con	-	-	AG Con	
+528	E528	GPGQALYTTRIIGD	102	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+529	E529	GPGQVFYRTGDIIGD	102	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1694	GPGRAFYTTKNIKGT	102	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1695	GPGQTFYATGDIIGN	102	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1696	GPGQAFYATNDVIGD	102	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+530	E530	QAFYATGDIIGDIRQ	103	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+531	E531	RAFYATGDIIGDIRQ	103	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+532	E532	QTFYATGDIIGDIRQ	103	4&7&13	3	Ori	C.ZM651	-	-	-	-	-	-	-	-	C Con	-	-	AG Con	
+533	E533	QALYTTRIIGDIRQ	103	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+534	E534	QVFYRTGDIIGDIRK	103	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1697	RAFYTTKNIKGTIRQ	103	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1698	QTFYATGDIIGNIRQ	103	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1699	QAFYATNDVIGDIRQ	103	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+535	E535	YATGDIIGDIRQAHC	104	1&2&3&4&7&13	6	Ori	C.ZM651	-	-	-	-	-	M Con	A Con	B Con	C Con	-	-	AG Con	
+536	E536	YTTRIIGDIRQAHC	104	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+537	E537	YRTGDIIGDIRKAYC	104	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1700	YTTKNIKGTIRQAHC	104	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1701	YATGDIIGNIRQAHC	104	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1702	YATNDVIGDIRQAHC	104	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+538	E538	GDIIGDIRQAHCNIS	105	1&3&4&13	4	Ori	C.ZM651	-	-	-	-	-	M Con	-	B Con	C Con	-	-	-	
+539	E539	GDIIGDIRQAHCNVS	105	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+540	E540	RIIGDIRQAHCNIS	105	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+541	E541	GDIIGDIRKAYCEIN	105	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1703	KNIKGTIRQAHCIIS	105	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1704	GDIIGNIRQAHCNIN	105	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1705	NDVIGDIRQAHCNIS	105	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+542	E542	IGDIRQAHCNISRTK	106	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+543	E543	IGDIRQAHCNVSRSE	106	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+544	E544	IGDIRQAHCNISRAK	106	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+545	E545	IGDIRQAHCNISKEK	106	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+546	E546	IGDIRQAHCNISGAK	106	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+547	E547	IGDIRKAYCEINGTK	106	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+548	E548	IGDIRQAHCNVSRTE	106	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1706	IGDIRKAYCEINGTE	106	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1707	KGTIRQAHCIISRAK	106	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1708	IGNIRQAHCNINESK	106	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1709	IGDIRQAHCNISTDR	106	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1983	IGDIRQAHCNISRTN	106	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+549	E549	IRQAHCNISRTKWNK	107	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+550	E550	IRQAHCNVSRSEWNK	107	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+551	E551	IRQAHCNISRAKWNN	107	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+552	E552	IRQAHCNISKEKWNK	107	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+553	E553	IRQAHCNISGAKWNK	107	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+554	E554	IRKAYCEINGTKWNE	107	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+555	E555	IRQAHCNVSRTEWNN	107	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1710	IRKAYCEINGTEWNK	107	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1711	IRQAHCIISRAKWND	107	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1712	IRQAHCNINESKWNN	107	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1713	IRQAHCNISTDRWNK	107	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1984	IRQAHCNISRTNWTK	107	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+556	E556	AHCNISRTKWNKTLQ	108	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+557	E557	AHCNVSRSEWNKTLQ	108	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+558	E558	AHCNISRAKWNNTLK	108	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+559	E559	AHCNISKEKWNKTLQ	108	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+560	E560	AHCNISGAKWNKTLQ	108	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+561	E561	AYCEINGTKWNETLK	108	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+562	E562	AHCNVSRTEWNNTLQ	108	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1714	AYCEINGTEWNKALK	108	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1715	AYCEINGTKWNEVLK	108	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1716	AHCIISRAKWNDTLR	108	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1717	AHCNINESKWNNTLQ	108	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1718	AHCNISTDRWNKTLQ	108	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1985	AHCNISRTNWTKTLR	108	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+563	E563	NISRTKWNKTLQQVA	109	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+564	E564	NVSRSEWNKTLQKVA	109	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+565	E565	NISRAKWNNTLKQIV	109	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+566	E566	NISKEKWNKTLQRVK	109	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+567	E567	NISGAKWNKTLQQVA	109	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+568	E568	EINGTKWNETLKQVT	109	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+569	E569	NVSRTEWNNTLQQVA	109	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1719	EINGTEWNKALKQVT	109	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1720	EINGTKWNEVLKKVT	109	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1721	IISRAKWNDTLRQIV	109	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1722	NINESKWNNTLQKVG	109	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1723	NISTDRWNKTLQQVM	109	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1986	NISRTNWTKTLREVR	109	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+570	E570	RTKWNKTLQQVATKL	110	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+571	E571	RSEWNKTLQKVATQL	110	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+572	E572	RAKWNNTLKQIVKKL	110	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+573	E573	KEKWNKTLQRVKKKL	110	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+574	E574	GAKWNKTLQQVAKKL	110	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+575	E575	GTKWNETLKQVTEKL	110	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+576	E576	RTEWNNTLQQVATQL	110	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1724	GTEWNKALKQVTEKL	110	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1725	GTKWNEVLKKVTEKL	110	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1726	RAKWNDTLRQIVSKL	110	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1727	ESKWNNTLQKVGEEL	110	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1728	TDRWNKTLQQVMKKL	110	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1987	RTNWTKTLREVRNKL	110	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+577	E577	WNKTLQQVATKLKEH	111	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+578	E578	WNKTLQKVATQLRKY	111	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+579	E579	WNNTLKQIVKKLREQ	111	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+580	E580	WNKTLQRVKKKLKEH	111	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+581	E581	WNKTLQQVAKKLGDL	111	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+582	E582	WNETLKQVTEKLKEH	111	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+583	E583	WNNTLQQVATQLRKY	111	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1729	WNKALKQVTEKLKEH	111	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1730	WNEVLKKVTEKLKEH	111	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1731	WNDTLRQIVSKLKEQ	111	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1732	WNNTLQKVGEELAKH	111	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1733	WNKTLQQVMKKLGEH	111	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1988	WTKTLREVRNKLREH	111	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+584	E584	TLQQVATKLKEHFNK	112	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+585	E585	TLQKVATQLRKYFNK	112	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+586	E586	TLKQIVKKLREQFGN	112	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+587	E587	TLQRVKKKLKEHFPN	112	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+588	E588	TLQQVAKKLGDLLNK	112	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+589	E589	TLKQVTEKLKEHFNK	112	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+590	E590	TLQQVATQLRKYFNN	112	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1734	ALKQVTEKLKEHFNN	112	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1735	VLKKVTEKLKEHFNN	112	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1736	TLRQIVSKLKEQFKN	112	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1737	TLQKVGEELAKHFPS	112	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1738	TLQQVMKKLGEHFPN	112	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1989	TLREVRNKLREHFPN	112	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+591	E591	QVATKLKEHFNKTII	113	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+592	E592	KVATQLRKYFNKTII	113	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+593	E593	QIVKKLREQFGNKTI	113	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+594	E594	RVKKKLKEHFPNKTI	113	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+595	E595	QVAKKLGDLLNKTTI	113	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+596	E596	QVTEKLKEHFNKTII	113	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+597	E597	QVATQLRKYFNNTTI	113	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1739	QVTEKLKEHFNNKPI	113	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1740	KVTEKLKEHFNNKTI	113	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1741	QIVSKLKEQFKNKTI	113	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1742	KVGEELAKHFPSKTI	113	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1743	QVMKKLGEHFPNKTI	113	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1990	EVRNKLREHFPNKNI	113	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+598	E598	TKLKEHFNKTIIFNP	114	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+599	E599	TQLRKYFNKTIIFTN	114	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+600	E600	KKLREQFGNKTIVFN	114	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+601	E601	KKLKEHFPNKTIKFA	114	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+602	E602	KKLGDLLNKTTIIFK	114	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+603	E603	EKLKEHFNKTIIFQP	114	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+604	E604	TQLRKYFNNTTIIFA	114	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1744	EKLKEHFNNKPIIFQ	114	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1745	EKLKEHFNNKTIIFQ	114	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1746	SKLKEQFKNKTIVFN	114	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1747	EELAKHFPSKTIKFE	114	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1748	KKLGEHFPNKTIQFK	114	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1991	NKLREHFPNKNITFK	114	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+605	E605	KEHFNKTIIFNPSSG	115	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+606	E606	RKYFNKTIIFTNSSG	115	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+607	E607	REQFGNKTIVFNQSS	115	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+608	E608	KEHFPNKTIKFAPSS	115	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+609	E609	GDLLNKTTIIFKPSS	115	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+610	E610	KEHFNKTIIFQPPSG	115	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+611	E611	RKYFNNTTIIFANSS	115	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1749	KEHFNNKPIIFQPPS	115	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1750	KEHFNNKTIIFQPPS	115	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1751	KEQFKNKTIVFNPSS	115	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1752	AKHFPSKTIKFEPSS	115	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1753	GEHFPNKTIQFKPHA	115	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1992	REHFPNKNITFKPSS	115	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+612	E612	FNKTIIFNPSSGGDL	116	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+613	E613	FNKTIIFTNSSGGDL	116	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+614	E614a	FGNKTIVFNQSSGGD	116	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+615	E615b	GNKTIVFNQSSGGDP	116	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+616	E616a	FPNKTIKFAPSSGGD	116	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+617	E617b	PNKTIKFAPSSGGDL	116	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+618	E618a	LNKTTIIFKPSSGGD	116	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+619	E619b	NKTTIIFKPSSGGDP	116	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+620	E620	FNKTIIFQPPSGGDL	116	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+621	E621a	FNNTTIIFANSSGGD	116	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+622	E622b	NNTTIIFANSSGGDL	116	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1754a	FNNKPIIFQPPSGGD	116	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1754b	NNKPIIFQPPSGGDL	116	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1755a	FNNKTIIFQPPSGGD	116	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1755b	NNKTIIFQPPSGGDL	116	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1756a	FKNKTIVFNPSSGGD	116	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1756b	KNKTIVFNPSSGGDP	116	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1757a	FPSKTIKFEPSSGGD	116	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1757b	PSKTIKFEPSSGGDL	116	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1758a	FPNKTIQFKPHAGGD	116	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1758b	PNKTIQFKPHAGGDI	116	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1993a	FPNKNITFKPSSGGD	116	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E1993b	PNKNITFKPSSGGDL	116	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+623	E623	TIIFNPSSGGDLEIT	117	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+624	E624	TIIFTNSSGGDLEIT	117	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+625	E625	TIVFNQSSGGDPEIV	117	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+626	E626	TIKFAPSSGGDLEIT	117	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+627	E627	TIIFKPSSGGDPEIT	117	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+628	E628	TIIFQPPSGGDLEIT	117	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+629	E629	TIIFANSSGGDLEIT	117	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1759	PIIFQPPSGGDLEIT	117	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1760	TIVFNPSSGGDPEIV	117	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1761	TIKFEPSSGGDLEIT	117	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1762	TIQFKPHAGGDIEIT	117	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1994	NITFKPSSGGDLEIT	117	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+630	E630	FNPSSGGDLEITTHS	118	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+631	E631	FTNSSGGDLEITTHS	118	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+632	E632	FNQSSGGDPEIVMHS	118	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+633	E633	FAPSSGGDLEITTHS	118	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+634	E634	FKPSSGGDPEITTHS	118	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+635	E635	FQPPSGGDLEITMHH	118	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+636	E636	FANSSGGDLEITTHS	118	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1763	FQPPSGGDLEITMHP	118	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1764	FNPSSGGDPEIVMHS	118	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1765	FEPSSGGDLEITTHS	118	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1766	FKPHAGGDIEITMHS	118	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1995	FKPSSGGDLEITTHS	118	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+637	E637	SSGGDLEITTHSFNC	119	1&2&4&7&11&13	6	Ori	C.ZM651	-	C.1086	-	-	-	M Con	A Con	-	C Con	-	-	AG Con	
+638	E638	SSGGDPEIVMHSFNC	119	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+639	E639	SSGGDPEITTHSFNC	119	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+640	E640	PSGGDLEITMHHFNC	119	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1767	PSGGDLEITMHPFNC	119	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1768	HAGGDIEITMHSFNC	119	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+641	E641	GDLEITTHSFNCRGE	120	1&4&11&13	4	Ori	C.ZM651	-	C.1086	-	-	-	M Con	-	-	C Con	-	-	-	
+642	E642	GDLEITTHSFNCGGE	120	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+643	E643	GDPEIVMHSFNCGGE	120	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+644	E644	GDPEITTHSFNCGGE	120	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+645	E645	GDLEITMHHFNCRGE	120	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1769	GDLEITMHPFNCRGE	120	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1770	GDIEITMHSFNCRGE	120	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+646	E646	EITTHSFNCRGEFFY	121	1&4&11&13	4	Ori	C.ZM651	-	C.1086	-	-	-	M Con	-	-	C Con	-	-	-	
+647	E647	EITTHSFNCGGEFFY	121	2&5&7	3	Ori	-	-	-	-	-	-	-	A Con	-	-	D Con	-	AG Con	
+648	E648	EIVMHSFNCGGEFFY	121	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+649	E649	EITMHHFNCRGEFFY	121	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1771	EITMHPFNCRGEFFY	121	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1772	EITMHSFNCRGEFFY	121	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+650	E650	THSFNCRGEFFYCNT	122	1&4&11&13	4	Ori	C.ZM651	-	C.1086	-	-	-	M Con	-	-	C Con	-	-	-	
+651	E651	THSFNCGGEFFYCNT	122	2&5&7	3	Ori	-	-	-	-	-	-	-	A Con	-	-	D Con	-	AG Con	
+652	E652	MHSFNCGGEFFYCNT	122	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+653	E653	MHHFNCRGEFFYCNT	122	6&8	2	Ori	-	-	-	-	-	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1773	MHPFNCRGEFFYCNT	122	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1774	MHSFNCRGEFFYCNT	122	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+654	E654	FNCRGEFFYCNTSGL	123	1&13	2	Ori	C.ZM651	-	-	-	-	-	M Con	-	-	-	-	-	-	
+655	E655	FNCGGEFFYCNTSGL	123	2&5&7	3	Ori	-	-	-	-	-	-	-	A Con	-	-	D Con	-	AG Con	
+656	E656	FNCGGEFFYCNTTQL	123	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+657	E657	FNCRGEFFYCNTSKL	123	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+658	E658	FNCRGEFFYCNTTKL	123	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1775	FNCRGEFFYCNTTRL	123	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1776	FNCGGEFFYCNTSPL	123	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1777	FNCRGEFFYCNTSDL	123	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1778	FNCRGEFFYCNTSNL	123	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+659	E659	RGEFFYCNTSGLFNS	124	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+660	E660	GGEFFYCNTSGLFNS	124	2&5&7	3	Ori	-	-	-	-	-	-	-	A Con	-	-	D Con	-	AG Con	
+661	E661	GGEFFYCNTTQLFNS	124	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+662	E662	RGEFFYCNTSKLFNS	124	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+663	E663	RGEFFYCNTTKLFNS	124	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1779	RGEFFYCNTTRLFNN	124	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1780	GGEFFYCNTSPLFNS	124	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1781	RGEFFYCNTSDLFNG	124	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1782	RGEFFYCNTSNLFNS	124	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1996	RGEFFYCNTSGLFSI	124	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+664	E664	FFYCNTSGLFNSTWN	125	1&2&5&7	4	Ori	-	-	-	-	-	-	M Con	A Con	-	-	D Con	-	AG Con	
+665	E665	FFYCNTTQLFNSTWN	125	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+666	E666	FFYCNTSKLFNSTYN	125	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+667	E667	FFYCNTTKLFNSTCI	125	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1783	FFYCNTTRLFNNTCI	125	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1784	FFYCNTTRLFNNTCM	125	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1785	FFYCNTSPLFNSIWN	125	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1786	FFYCNTSDLFNGTYR	125	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1787	FFYCNTSNLFNSTYH	125	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1997	FFYCNTSGLFSINYT	125	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+668	E668	CNTSGLFNSTWNNNT	126	1&7	2	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	AG Con	
+669	E669	CNTTQLFNSTWNNNG	126	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+670	E670	CNTSKLFNSTYNNT	126	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+671	E671	CNTSGLFNSTWNNST	126	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+672	E672	CNTTKLFNSTCIGNT	126	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1788	CNTTRLFNNTCIANG	126	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1789	CNTTRLFNNTCMENE	126	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1790	CNTSPLFNSIWNGNN	126	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1791	CNTSDLFNGTYRNGT	126	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1792	CNTSNLFNSTYHSNN	126	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1998	CNTSGLFSINYTENN	126	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+674	E674	SGLFNSTWNNNTNSN	127	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+675	E675	SGLFNSTWNNNTTES	127	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+676	E676	TQLFNSTWNNNGTNN	127	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+677	E677	SKLFNSTYNNTNSN	127	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+678	E678	SGLFNSTWNNSTNST	127	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+679	E679	TKLFNSTCIGNTMEG	127	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+680	E680	SGLFNSTWNNNTTSS	127	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1793	TRLFNNTCIANGTIE	127	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1794	TRLFNNTCMENETME	127	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1795	SPLFNSIWNGNNTWN	127	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1796	SDLFNGTYRNGTYNH	127	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1797	SNLFNSTYHSNNGTY	127	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1999	SGLFSINYTENNTDG	127	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+681	E681	FNSTWNNNTNSNDTI	128	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+682	E682	FNSTWNNNTTESNST	128	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+683	E683	FNSTWNNNGTNNNTN	128	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+684	E684	FNSTYNNTNSNSTI	128	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+685	E685	FNSTWNNSTNSTTSN	128	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+686	E686	FNSTCIGNTMEGCNG	128	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+687	E687	FNSTWNNNTTSSNST	128	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1798	FNNTCIANGTIEGCN	128	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1799	FNNTCMENETMEGCN	128	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1800	FNSIWNGNNTWNNTT	128	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1801	FNGTYRNGTYNHTGR	128	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1802	FNSTYHSNNGTYKYN	128	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2000	FSINYTENNTDGTPI	128	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+688	E688	TWNNNTNSNDTITLP	129	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+689	E689	TWNNNTTESNSTESN	129	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+690	E690	TWNNNGTNNNTNGND	129	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+691	E691	TYNNTNSNSTITLP	129	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+692	E692	TWNNSTNSTTSNNET	129	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+693	E693	TCIGNTMEGCNGTII	129	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+694	E694	TWNNNTTSSNSTNSN	129	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1803	TCIANGTIEGCNGNI	129	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1804	TCMENETMEGCNGTI	129	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1805	IWNGNNTWNNTTGSN	129	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1806	TYRNGTYNHTGRSSN	129	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1807	TYHSNNGTYKYNGNS	129	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2001	NYTENNTDGTPITLP	129	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+695	E695	NNTNSNDTITLPCRI	130	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+696	E696a	NNTTESNSTESNDTI	130	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+697	E697b	TESNSTESNDTITLP	130	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+698	E698c	NSTESNDTITLPCRI	130	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+699	E699a	NNGTNNNTNGNDTIT	130	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+700	E700b	TNNNTNGNDTITLPC	130	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+701	E701c	NNTNGNDTITLPCRI	130	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+702	E702	NTNSNSTITLPCRI	130	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+703	E703a	NSTNSTTSNNETITL	130	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+704	E704b	NSTTSNNETITLPCR	130	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+705	E705c	STTSNNETITLPCRI	130	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+706	E706a	GNTMEGCNGTIILPC	130	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+707	E707b	TMEGCNGTIILPCKI	130	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+708	E708a	NNTTSSNSTNSNDTI	130	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+709	E709b	TSSNSTNSNDTITLQ	130	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+710	E710c	NSTNSNDTITLQCRI	130	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1808a	ANGTIEGCNGNITLP	130	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1808b	TIEGCNGNITLPCKI	130	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1809a	ENETMEGCNGTIILP	130	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1810a	GNNTWNNTTGSNNNI	130	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1810b	TWNNTTGSNNNITLQ	130	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1810c	NTTGSNNNITLQCKI	130	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1811a	NGTYNHTGRSSNGTI	130	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1811b	YNHTGRSSNGTITLQ	130	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1811c	TGRSSNGTITLQCKI	130	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1812a	SNNGTYKYNGNSSLP	130	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1812b	GTYKYNGNSSLPITL	130	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1812c	KYNGNSSLPITLQCK	130	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1812d	YNGNSSLPITLQCKI	130	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-		
+-	E2002	ENNTDGTPITLPCRI	130	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+711	E711	NSNDTITLPCRIKQI	131	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+712	E712	ESNDTITLPCRIKQI	131	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+713	E713	NGNDTITLPCRIKQI	131	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+714	E714	NSNSTITLPCRIKQI	131	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+715	E715	SNNETITLPCRIKQI	131	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+716	E716	GCNGTIILPCKIKQI	131	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+717	E717	NSNDTITLQCRIKQI	131	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1813	GCNGNITLPCKIKQI	131	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1814	GSNNNITLQCKIKQI	131	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1815	SSNGTITLQCKIKQI	131	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1816	NSSLPITLQCKIKQI	131	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2003	TDGTPITLPCRIRQI	131	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+718	E718	DTITLPCRIKQIINM	132	1&2&3	3	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	-	-	-	
+719	E719	STITLPCRIKQIINM	132	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+720	E720	ETITLPCRIKQIINM	132	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+721	E721	GTIILPCKIKQIINM	132	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+722	E722	DTITLQCRIKQIVNM	132	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1817	GNITLPCKIKQIINM	132	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1818	NNITLQCKIKQIINM	132	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1819	GTITLQCKIKQIINM	132	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1820	LPITLQCKIKQIVRM	132	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2004	TPITLPCRIRQIINM	132	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+723	E723	TLPCRIKQIINMWQR	133	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+724	E724	TLPCRIKQIINMWQE	133	3&4	2	Ori	-	-	-	-	-	-	-	-	B Con	C Con	-	-	-	
+725	E725	TLPCRIKQIINMWQG	133	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+726	E726	ILPCKIKQIINMWQG	133	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+727	E727	TLQCRIKQIVNMWQR	133	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1821	TLPCKIKQIINMWQG	133	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1822	TLQCKIKQIINMWQK	133	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1823	TLQCKIKQIINMWQE	133	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1824	TLQCKIKQIVRMWQG	133	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2005	TLPCRIRQIINMWQE	133	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+728	E728	CRIKQIINMWQRVGQ	134	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+729	E729	CRIKQIINMWQEVGK	134	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+730	E730	CRIKQIINMWQEVGR	134	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+731	E731	CRIKQIINMWQGVGK	134	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+732	E732	CKIKQIINMWQGVGQ	134	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+733	E733	CRIKQIVNMWQRVGQ	134	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1825	CKIKQIINMWQGAGQ	134	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1826	CKIKQIINMWQKVGK	134	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1827	CKIKQIINMWQEVGR	134	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1828	CKIKQIVRMWQGVGQ	134	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2006	CRIRQIINMWQEVGR	134	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+734	E734	KQIINMWQRVGQAMY	135	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+735	E735	KQIINMWQEVGKAMY	135	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+736	E736	KQIINMWQEVGRAMY	135	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+737	E737	KQIINMWQGVGKAMY	135	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+738	E738	KQIINMWQGVGQAMY	135	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+739	E739	KQIVNMWQRVGQAMY	135	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1829	KQIINMWQGAGQAMY	135	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1830	KQIINMWQKVGKAMY	135	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1831	KQIINMWQEVGRAIY	135	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1832	KQIVRMWQGVGQAMY	135	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2007	RQIINMWQEVGRAMY	135	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+740	E740	INMWQRVGQAMYAPP	136	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+741	E741	INMWQEVGKAMYAPP	136	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+742	E742	INMWQEVGRAMYAPP	136	4&13	2	Ori	C.ZM651	-	-	-	-	-	-	-	-	C Con	-	-	-	
+743	E743	INMWQGVGKAMYAPP	136	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+744	E744	INMWQGVGQAMYAPP	136	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+745	E745	VNMWQRVGQAMYAPP	136	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1833	INMWQGAGQAMYAPP	136	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1834	INMWQKVGKAMYAPP	136	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1835	INMWQEVGRAIYAPP	136	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1836	VRMWQGVGQAMYAPP	136	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+746	E746	WQRVGQAMYAPPIAG	137	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+747	E747	WQRVGQAMYAPPIQG	137	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+748	E748	WQEVGKAMYAPPIRG	137	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+749	E749	WQEVGRAMYAPPIAG	137	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+750	E750	WQGVGKAMYAPPIEG	137	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+751	E751	WQGVGQAMYAPPISG	137	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1837	WQGAGQAMYAPPISG	137	8&9	2	New	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	-	-	
+-	E1838	WQKVGKAMYAPPIEG	137	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1839	WQEVGRAIYAPPIEG	137	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1840	WQGVGQAMYAPPIAG	137	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2008	WQEVGRAMYAPPIEG	137	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+752	E752	VGQAMYAPPIAGNIT	138	1&12	2	Ori	-	C.TV1	-	-	-	-	M Con	-	-	-	-	-	-	
+753	E753	VGQAMYAPPIQGVIR	138	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+754	E754	VGKAMYAPPIRGQIR	138	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+755	E755	VGRAMYAPPIAGNIT	138	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+756	E756	VGKAMYAPPIEGLIR	138	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+757	E757	VGQAMYAPPISGSIN	138	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+758	E758	VGQAMYAPPIQGEIR	138	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1841	AGQAMYAPPISGTIN	138	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1842	AGQAMYAPPISGRIN	138	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1843	VGKAMYAPPIEGQIR	138	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1844	VGRAIYAPPIEGEIT	138	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E2009	VGRAMYAPPIEGNIA	138	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+759	E759	AMYAPPIAGNITCSS	139	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+760	E760	AMYAPPIQGVIRCES	139	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+761	E761	AMYAPPIRGQIRCSS	139	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+762	E762	AMYAPPIAGNITCKS	139	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+763	E763	AMYAPPIEGLIRCSS	139	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+764	E764	AMYAPPISGSINCVS	139	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+765	E765	AMYAPPIQGEIRCES	139	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1845	AMYAPPISGTINCVS	139	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1846	AMYAPPISGRINCVS	139	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1847	AMYAPPIEGQIRCSS	139	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1848	AIYAPPIEGEITCNS	139	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1849	AMYAPPIAGNITCRS	139	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2010	AMYAPPIEGNIACKS	139	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+766	E766	APPIAGNITCSSNIT	140	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+767	E767	APPIQGVIRCESNIT	140	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+768	E768	APPIRGQIRCSSNIT	140	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+769	E769	APPIAGNITCKSNIT	140	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+770	E770	APPIEGLIRCSSNIT	140	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+771	E771	APPISGSINCVSNIT	140	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+772	E772	APPIQGEIRCESNIT	140	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1850	APPISGTINCVSNIT	140	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1851	APPISGRINCVSNIT	140	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1852	APPIEGQIRCSSNIT	140	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1853	APPIEGEITCNSNIT	140	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1854	APPIAGNITCRSNIA	140	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2011	APPIEGNIACKSDIT	140	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+773	E773	IAGNITCSSNITGLL	141	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+774	E774	IQGVIRCESNITGLI	141	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+775	E775	IRGQIRCSSNITGLL	141	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+776	E776	IAGNITCKSNITGLL	141	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+777	E777	IEGLIRCSSNITGLL	141	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+778	E778	ISGSINCVSNITGIL	141	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+779	E779	IQGEIRCESNITGLL	141	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1855	ISGTINCVSNITGIL	141	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1856	ISGRINCVSNITGIL	141	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1857	IEGQIRCSSNITGLL	141	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1858	IEGEITCNSNITGLL	141	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1859	IAGNITCRSNIAGIL	141	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2012	IEGNIACKSDITGLL	141	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+780	E780	NITCSSNITGLLLTR	142	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+781	E781	VIRCESNITGLILTR	142	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+782	E782	QIRCSSNITGLLLTR	142	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+783	E783	NITCKSNITGLLLTR	142	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+784	E784	LIRCSSNITGLLLTR	142	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+785	E785	SINCVSNITGILLTR	142	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+786	E786	EIRCESNITGLLLTR	142	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1860	TINCVSNITGILLTR	142	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1861	RINCVSNITGILLTR	142	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1862	EITCNSNITGLLLLR	142	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1863	NITCRSNIAGILLTR	142	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2013	NIACKSDITGLLLVR	142	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+787	E787	CSSNITGLLLTRDGG	143	1&3&5&10	4	Ori	-	-	-	B.MN	-	-	M Con	-	B Con	-	D Con	-	-	
+788	E788	CESNITGLILTRDGG	143	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+789	E789	CKSNITGLLLTRDGG	143	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+790	E790	CVSNITGILLTRDGG	143	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+791	E791	CESNITGLLLTRDGG	143	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1864	CNSNITGLLLLRDGG	143	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1865	CRSNIAGILLTRDGG	143	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2014	CKSDITGLLLVRDGG	143	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+792	E792	NITGLLLTRDGGNNN	144	1&3&4&5&7	5	Ori	-	-	-	-	-	-	M Con	-	B Con	C Con	D Con	-	AG Con	
+793	E793	NITGLILTRDGGNNN	144	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+794	E794	NITGILLTRDGGNNN	144	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1866	NITGILLTRDGGATN	144	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1867	NITGILLTRDGGLNN	144	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1868	NITGLLLTRDGGEDT	144	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1869	NITGLLLLRDGGQSN	144	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1870	NIAGILLTRDGGFNT	144	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2015	DITGLLLVRDGGSTN	144	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+795	E795	GLLLTRDGGNNNSTN	145	1&7	2	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	AG Con	
+796	E796	GLILTRDGGNNNSTN	145	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+797	E797	GLLLTRDGGNNNNTT	145	3&4	2	Ori	-	-	-	-	-	-	-	-	B Con	C Con	-	-	-	
+798	E798	GLLLTRDGGNNNSQN	145	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+799	E799	GILLTRDGGNNNNTN	145	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1871	GILLTRDGGATNNTN	145	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1872	GILLTRDGGLNNTNE	145	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1873	GLLLTRDGGEDTDTN	145	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1874	GLLLLRDGGQSNETN	145	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1875	GILLTRDGGFNTTNN	145	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2016	GLLLVRDGGSTNDST	145	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+800	E800	LTRDGGNNNSTNETF	146	1&2&7	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	AG Con	
+801	E801	LTRDGGNNNNTTETF	146	3&4	2	Ori	-	-	-	-	-	-	-	-	B Con	C Con	-	-	-	
+802	E802	LTRDGGNNNSQNETF	146	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+803	E803	LTRDGGNNNNTNETF	146	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1876	LTRDGGATNNTNNET	146	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1877	LTRDGGLNNTNETFR	146	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1878	LTRDGGEDTDTNDTE	146	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1879	LLRDGGQSNETNDTE	146	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1880	LTRDGGFNTTNNTET	146	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2017	LVRDGGSTNDSTNNN	146	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+804	E804	DGGNNNSTNETFRPG	147	1&2&7	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	AG Con	
+805	E805	DGGNNNNTTETFRPG	147	3&4	2	Ori	-	-	-	-	-	-	-	-	B Con	C Con	-	-	-	
+806	E806	DGGNNNSQNETFRPG	147	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+807	E807	DGGNNNNTNETFRPG	147	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1881	DGGATNNTNNETFRP	147	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1882	DGGLNNTNETFRPGG	147	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1883	DGGEDTDTNDTEIFR	147	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1884	DGGQSNETNDTETFR	147	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1885a	DGGFNTTNNTETFRP	147	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E1885b	GGFNTTNNTETFRPG	147	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2018	DGGSTNDSTNNNTEI	147	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+808	E808	NNNSTNETFRPGGGD	148	1&2&7	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	AG Con	
+809	E809	NNNNTTETFRPGGGD	148	3&4	2	Ori	-	-	-	-	-	-	-	-	B Con	C Con	-	-	-	
+810	E810	NNNSQNETFRPGGGD	148	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+811	E811	NNNNTNETFRPGGGN	148	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1886a	ATNNTNNETFRPGGG	148	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1886b	TNNTNNETFRPGGGN	148	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1887	LNNTNETFRPGGGNI	148	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1888a	EDTDTNDTEIFRPGG	148	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1888b	TDTNDTEIFRPGGGD	148	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1889a	QSNETNDTETFRPGG	148	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1889b	NETNDTETFRPGGGD	148	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1890	NTTNNTETFRPGGGD	148	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2019a	STNDSTNNNTEIFRP	148	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E2019b	DSTNNNTEIFRPAGG	148	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+-	E2019c	STNNNTEIFRPAGGD	148	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+812	E812	STNETFRPGGGDMRD	149	1&2&7	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	AG Con	
+813	E813	NTTETFRPGGGDMRD	149	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+814	E814	NTTETFRPGGGDMKD	149	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+815	E815	SQNETFRPGGGDMRD	149	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+816	E816	NTNETFRPGGGNIKD	149	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+-	E1891	TNNETFRPGGGNIKD	149	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1892	TNETFRPGGGNIKDN	149	9	1	New	-	-	-	-	AE.TH023	-	-	-	-	-	-	-	-	
+-	E1893	NDTEIFRPGGGDMRD	149	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1894	NDTETFRPGGGDMRD	149	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1895	NNTETFRPGGGDMRD	149	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+-	E2020	NNTEIFRPAGGDMRD	149	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+817	E817	ETFRPGGGDMRDNWR	150	1&2&3&5&7&11&12	7	Ori	-	C.TV1	C.1086	-	-	-	M Con	A Con	B Con	-	D Con	-	AG Con	
+818	E818	ETFRPGGGDMKDNWR	150	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+819	E819	ETFRPGGGNIKDNWR	150	6&8&9	3	Ori	-	-	-	-	AE.TH023	AE.A244	-	-	-	-	-	AE Con	-	
+-	E1896	EIFRPGGGDMRDNWR	150	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E2021	EIFRPAGGDMRDNWR	150	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+820	E820	RPGGGDMRDNWRSEL	151	1&2&3&5&7&10&11&12	8	Ori	-	C.TV1	C.1086	B.MN	-	-	M Con	A Con	B Con	-	D Con	-	AG Con	
+821	E821	RPGGGDMKDNWRSEL	151	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+822	E822	RPGGGNIKDNWRSEL	151	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1897	RPGGGNIKDNWRNEL	151	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E2022	RPAGGDMRDNWRSEL	151	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+823	E823	GGDMRDNWRSELYKY	152	1&2&3&5&7&10&11&12&13	9	Ori	C.ZM651	C.TV1	C.1086	B.MN	-	-	M Con	A Con	B Con	-	D Con	-	AG Con	
+824	E824	GGDMKDNWRSELYKY	152	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+825	E825	GGNIKDNWRSELYKY	152	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1898	GGNIKDNWRNELYKY	152	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+																				
+826	E826	MRDNWRSELYKYKVV	153	1&2&3&5&7&10&11&12&13	9	Ori	C.ZM651	C.TV1	C.1086	B.MN	-	-	M Con	A Con	B Con	-	D Con	-	AG Con	
+827	E827	MKDNWRSELYKYKVV	153	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+828	E828	IKDNWRSELYKYKVV	153	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1899	IKDNWRNELYKYKVV	153	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+																				
+829	E829	NWRSELYKYKVVKIE	154	1&2&3&7	4	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	-	-	AG Con	
+830	E830	NWRSELYKYKVVEIK	154	4&11&12&13	4	Ori	C.ZM651	C.TV1	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+831	E831	NWRSELYKYKVVRIE	154	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+832	E832	NWRSELYKYKVVQIE	154	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1900	NWRNELYKYKVVQIE	154	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1901	NWRSELYKYKVVTIE	154	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+																				
+833	E833	SELYKYKVVKIEPLG	155	1&2&3&7	4	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	-	-	AG Con	
+834	E834	SELYKYKVVEIKPLG	155	4&11&12&13	4	Ori	C.ZM651	C.TV1	C.1086	-	-	-	-	-	-	C Con	-	-	-	
+835	E835	SELYKYKVVRIEPLG	155	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+836	E836	SELYKYKVVQIEPLG	155	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1902	NELYKYKVVQIEPLG	155	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1903	SELYKYKVVTIEPLG	155	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+																				
+837	E837	YKYKVVKIEPLGVAP	156	1&2&3&7	4	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	-	-	AG Con	
+838	E838	YKYKVVEIKPLGIAP	156	4&12&13	3	Ori	C.ZM651	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+839	E839	YKYKVVRIEPLGLAP	156	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+840	E840	YKYKVVQIEPLGIAP	156	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+-	E1904	YKYKVVQIEPLGVAP	156	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1905	YKYKVVTIEPLGVAP	156	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1906	YKYKVVEIKPLGVAP	156	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+																				
+841	E841	KVVKIEPLGVAPTKA	157	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+842	E842	KVVKIEPLGVAPTRA	157	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+843	E843	KVVEIKPLGIAPTKA	157	4&12	2	Ori	-	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+844	E844	KVVRIEPLGLAPTKA	157	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+845	E845	KVVQIEPLGIAPTRA	157	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+846	E846	KVVKIEPLGVAPTHA	157	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1907	KVVQIEPLGVAPTRA	157	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1908	KVVTIEPLGVAPTKA	157	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1909	KVVEIKPLGVAPTEA	157	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E2023	KVVEIKPLGIAPTEA	157	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+847	E847	KIEPLGVAPTKAKRR	158	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+848	E848	KIEPLGVAPTRAKRR	158	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+849	E849	EIKPLGIAPTKAKRR	158	4&12	2	Ori	-	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+850	E850	RIEPLGLAPTKAKRR	158	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+851	E851	QIEPLGIAPTRAKRR	158	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+852	E852	KIEPLGVAPTHAKRR	158	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1910	QIEPLGVAPTRAKRR	158	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1911	TIEPLGVAPTKAKRR	158	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1912	EIKPLGVAPTEAKRR	158	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E2024	EIKPLGIAPTEAKRR	158	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+853	E853	PLGVAPTKAKRRVVE	159	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+854	E854	PLGVAPTRAKRRVVE	159	2&8	2	Ori	-	-	-	-	-	AE.A244	-	A Con	-	-	-	-	-	
+855	E855	PLGVAPTKAKRRVVQ	159	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+856	E856	PLGIAPTKAKRRVVE	159	4&12	2	Ori	-	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+857	E857	PLGLAPTKAKRRVVE	159	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+858	E858	PLGIAPTRAKRRVVE	159	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+859	E859	PLGVAPTHAKRRVVE	159	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1913	PLGVAPTEAKRRVVE	159	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E2025	PLGIAPTEAKRRVVE	159	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+860	E860	VAPTKAKRRVVEREK	160	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+861	E861	VAPTRAKRRVVEREK	160	2&8	2	Ori	-	-	-	-	-	AE.A244	-	A Con	-	-	-	-	-	
+862	E862	VAPTKAKRRVVQREK	160	3&10	2	Ori	-	-	-	B.MN	-	-	-	-	B Con	-	-	-	-	
+863	E863	IAPTKAKRRVVEREK	160	4&12	2	Ori	-	C.TV1	-	-	-	-	-	-	-	C Con	-	-	-	
+864	E864	LAPTKAKRRVVEREK	160	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+865	E865	IAPTRAKRRVVEREK	160	6&9	2	Ori	-	-	-	-	AE.TH023	-	-	-	-	-	-	AE Con	-	
+866	E866	VAPTHAKRRVVEREK	160	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1914	VAPTEAKRRVVEREK	160	11	1	New	-	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E2026	IAPTEAKRRVVEREK	160	13	1	New	C.ZM651	-	-	-	-	-	-	-	-	-	-	-	-	
+																				
+867	E867	TKAKRRVVEREKRAV	161	1&4	2	Ori	-	-	-	-	-	-	M Con	-	-	C Con	-	-	-	
+868	E868	TRAKRRVVEREKRAV	161	2&6&9	3	Ori	-	-	-	-	AE.TH023	-	-	A Con	-	-	-	AE Con	-	
+869	E869	TKAKRRVVQREKRAV	161	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+870	E870	TKAKRRVVEREKRAI	161	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+871	E871	THAKRRVVEREKRAV	161	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+-	E1915	TRAKRRVVEREKR	161	8	1	New	-	-	-	-	-	AE.A244	-	-	-	-	-	-	-	
+-	E1917	TKAKRRVVQREKR	161	10	1	New	-	-	-	B.MN	-	-	-	-	-	-	-	-	-	
+-	E1918	TEAKRRVVEREKR	161	11&13	2	New	C.ZM651	-	C.1086	-	-	-	-	-	-	-	-	-	-	
+-	E1919	TKAKRRVVEREKR	161	12	1	New	-	C.TV1	-	-	-	-	-	-	-	-	-	-	-	
+																				
+872	E872	KRRVVEREKRAVGIG	162	1&2&4&6	4	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	-	
+873	E873	KRRVVQREKRAVGIG	162	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+874	E874	KRRVVEREKRAIGLG	162	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+875	E875	KRRVVEREKRAVGLG	162	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+876	E876	VVEREKRAVGIGAVF	163	1&2&4	3	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	-	
+877	E877	VVQREKRAVGIGAMF	163	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+878	E878	VVEREKRAIGLGAMF	163	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+879	E879	VVEREKRAVGIGAMI	163	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+880	E880	VVEREKRAVGLGAVF	163	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+881	E881	REKRAVGIGAVFLGF	164	1&2&4	3	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	-	
+882	E882	REKRAVGIGAMFLGF	164	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+883	E883	REKRAIGLGAMFLGF	164	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+884	E884	REKRAVGIGAMIFGF	164	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+885	E885	REKRAVGLGAVFLGF	164	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+886	E886	RAVGIGAVFLGFLGA	165	1&2&4	3	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	-	
+887	E887	RAVGIGAMFLGFLGA	165	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+888	E888	RAIGLGAMFLGFLGA	165	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+889	E889	RAVGIGAMIFGFLGA	165	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+890	E890	RAVGLGAVFLGFLGA	165	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+891	E891	GIGAVFLGFLGAAGS	166	1&2&4	3	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	-	
+892	E892	GIGAMFLGFLGAAGS	166	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+893	E893	GLGAMFLGFLGAAGS	166	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+894	E894	GIGAMIFGFLGAAGS	166	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+895	E895	GLGAVFLGFLGAAGS	166	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+896	E896	AVFLGFLGAAGSTMG	167	1&2&4&7	4	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	AG Con	
+897	E897	AMFLGFLGAAGSTMG	167	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+898	E898	AMIFGFLGAAGSTMG	167	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+899	E899	LGFLGAAGSTMGAAS	168	1&2&3&4&5&7	6	Ori	-	-	-	-	-	-	M Con	A Con	B Con	C Con	D Con	-	AG Con	
+900	E900	FGFLGAAGSTMGAAS	168	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+901	E901	LGAAGSTMGAASITL	169	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+902	E902	LGAAGSTMGAASMTL	169	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+903	E903	LGAAGSTMGAASLTL	169	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+904	E904	AGSTMGAASITLTVQ	170	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+905	E905	AGSTMGAASMTLTVQ	170	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+906	E906	AGSTMGAASLTLTVQ	170	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+907	E907	TMGAASITLTVQARQ	171	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+908	E908	TMGAASMTLTVQARQ	171	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+909	E909	TMGAASLTLTVQARQ	171	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+910	E910	AASITLTVQARQLLS	172	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+911	E911	AASMTLTVQARQLLS	172	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+912	E912	AASLTLTVQARQLLS	172	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+913	E913	ITLTVQARQLLSGIV	173	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+914	E914	MTLTVQARQLLSGIV	173	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+915	E915	LTLTVQARQLLSGIV	173	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+916	E916	TVQARQLLSGIVQQQ	174	1&2&3&4&5&6&7	7	Ori	-	-	-	-	-	-	M Con	A Con	B Con	C Con	D Con	AE Con	AG Con	
+																				
+917	E917	ARQLLSGIVQQQSNL	175	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+918	E918	ARQLLSGIVQQQNNL	175	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+																				
+919	E919	LLSGIVQQQSNLLRA	176	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+920	E920	LLSGIVQQQNNLLRA	176	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+																				
+921	E921	GIVQQQSNLLRAIEA	177	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+922	E922	GIVQQQNNLLRAIEA	177	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+																				
+923	E923	QQQSNLLRAIEAQQH	178	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+924	E924	QQQNNLLRAIEAQQH	178	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+																				
+925	E925	SNLLRAIEAQQHLLQ	179	1&6	2	Ori	-	-	-	-	-	-	M Con	-	-	-	-	AE Con	-	
+926	E926	SNLLRAIEAQQHLLK	179	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+927	E927	NNLLRAIEAQQHLLQ	179	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+928	E928	SNLLRAIEAQQHMLQ	179	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+																				
+929	E929	LRAIEAQQHLLQLTV	180	1&3&5&6	4	Ori	-	-	-	-	-	-	M Con	-	B Con	-	D Con	AE Con	-	
+930	E930	LRAIEAQQHLLKLTV	180	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+931	E931	LRAIEAQQHMLQLTV	180	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+																				
+932	E932	IEAQQHLLQLTVWGI	181	1&3&5&6	4	Ori	-	-	-	-	-	-	M Con	-	B Con	-	D Con	AE Con	-	
+933	E933	IEAQQHLLKLTVWGI	181	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+934	E934	IEAQQHMLQLTVWGI	181	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+																				
+935	E935	QQHLLQLTVWGIKQL	182	1&3&5&6	4	Ori	-	-	-	-	-	-	M Con	-	B Con	-	D Con	AE Con	-	
+936	E936	QQHLLKLTVWGIKQL	182	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+937	E937	QQHMLQLTVWGIKQL	182	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+																				
+938	E938	LLQLTVWGIKQLQAR	183	1&3&5&6	4	Ori	-	-	-	-	-	-	M Con	-	B Con	-	D Con	AE Con	-	
+939	E939	LLKLTVWGIKQLQAR	183	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+940	E940	MLQLTVWGIKQLQAR	183	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+																				
+941	E941	LTVWGIKQLQARVLA	184	1&2&3&4&5&6&7	7	Ori	-	-	-	-	-	-	M Con	A Con	B Con	C Con	D Con	AE Con	AG Con	
+																				
+942	E942	WGIKQLQARVLAVER	185	1&2&3&5&6	5	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	D Con	AE Con	-	
+943	E943	WGIKQLQARVLAIER	185	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+944	E944	WGIKQLQARVLALER	185	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+945	E945	KQLQARVLAVERYLK	186	1&2&3&5&6	5	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	D Con	AE Con	-	
+946	E946	KQLQARVLAIERYLK	186	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+947	E947	KQLQARVLALERYLR	186	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+948	E948	QARVLAVERYLKDQQ	187	1&2&3&5	4	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	D Con	-	-	
+949	E949	QARVLAIERYLKDQQ	187	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+950	E950	QARVLAVERYLKDQK	187	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+951	E951	QARVLALERYLRDQQ	187	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+952	E952	VLAVERYLKDQQLLG	188	1&2&3&5	4	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	D Con	-	-	
+953	E953	VLAIERYLKDQQLLG	188	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+954	E954	VLAVERYLKDQKFLG	188	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+955	E955	VLALERYLRDQQLLG	188	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+956	E956	VERYLKDQQLLGIWG	189	1&2&3&5	4	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	D Con	-	-	
+957	E957	IERYLKDQQLLGIWG	189	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+958	E958	VERYLKDQKFLGLWG	189	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+959	E959	LERYLRDQQLLGIWG	189	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+960	E960	YLKDQQLLGIWGCSG	190	1&2&3&4&5	5	Ori	-	-	-	-	-	-	M Con	A Con	B Con	C Con	D Con	-	-	
+961	E961	YLKDQKFLGLWGCSG	190	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+962	E962	YLRDQQLLGIWGCSG	190	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+963	E963	DQQLLGIWGCSGKLI	191	1&2&3&4&7	5	Ori	-	-	-	-	-	-	M Con	A Con	B Con	C Con	-	-	AG Con	
+964	E964	DQQLLGIWGCSGKHI	191	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+965	E965	DQKFLGLWGCSGKII	191	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+966	E966	LLGIWGCSGKLICTT	192	1&2&3&4&7	5	Ori	-	-	-	-	-	-	M Con	A Con	B Con	C Con	-	-	AG Con	
+967	E967	LLGIWGCSGKHICTT	192	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+968	E968	FLGLWGCSGKIICTT	192	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+969	E969	IWGCSGKLICTTNVP	193	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+970	E970	IWGCSGKLICTTAVP	193	3&4	2	Ori	-	-	-	-	-	-	-	-	B Con	C Con	-	-	-	
+971	E971	IWGCSGKHICTTTVP	193	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+972	E972	LWGCSGKIICTTAVP	193	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+973	E973	IWGCSGKLICTTTVP	193	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+974	E974	CSGKLICTTNVPWNS	194	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+975	E975	CSGKLICTTAVPWNA	194	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+976	E976	CSGKLICTTAVPWNS	194	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+977	E977	CSGKHICTTTVPWNS	194	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+978	E978	CSGKIICTTAVPWNS	194	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+979	E979	CSGKLICTTTVPWNS	194	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+980	E980	KLICTTNVPWNSSWS	195	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+981	E981	KLICTTAVPWNASWS	195	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+982	E982	KLICTTAVPWNSSWS	195	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+983	E983	KHICTTTVPWNSSWS	195	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+984	E984	KIICTTAVPWNSTWS	195	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+985	E985	KLICTTTVPWNSSWS	195	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+986	E986	CTTNVPWNSSWSNKS	196	1&2	2	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	-	
+987	E987	CTTAVPWNASWSNKS	196	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+988	E988	CTTAVPWNSSWSNKS	196	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+989	E989	CTTTVPWNSSWSNKS	196	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+990	E990	CTTAVPWNSTWSNKS	196	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+991	E991	CTTTVPWNSSWSNKT	196	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+992	E992	NVPWNSSWSNKSQDE	197	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+993	E993	NVPWNSSWSNKSQSE	197	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+994	E994	AVPWNASWSNKSLDE	197	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+995	E995	AVPWNSSWSNKSQTD	197	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+996	E996	TVPWNSSWSNKSLDE	197	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+997	E997	AVPWNSTWSNKSYEE	197	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+998	E998	TVPWNSSWSNKTYND	197	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+999	E999	WNSSWSNKSQDEIWD	198	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1000	E1000	WNSSWSNKSQSEIWD	198	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1001	E1001	WNASWSNKSLDEIWD	198	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1002	E1002	WNSSWSNKSQTDIWD	198	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1003	E1003	WNSSWSNKSLDEIWN	198	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1004	E1004	WNSTWSNKSYEEIWN	198	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1005	E1005	WNSSWSNKTYNDIWD	198	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1006	E1006	SWSNKSQDEIWDNMT	199	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1007	E1007	SWSNKSQSEIWDNMT	199	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1008	E1008	SWSNKSLDEIWDNMT	199	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1009	E1009	SWSNKSQTDIWDNMT	199	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1010	E1010	SWSNKSLDEIWNNMT	199	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1011	E1011	TWSNKSYEEIWNNMT	199	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1012	E1012	SWSNKTYNDIWDNMT	199	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1013	E1013	NKSQDEIWDNMTWME	200	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1014	E1014	NKSQSEIWDNMTWLQ	200	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1015	E1015	NKSLDEIWDNMTWME	200	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1016	E1016	NKSQTDIWDNMTWMQ	200	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1017	E1017	NKSLDEIWNNMTWME	200	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1018	E1018	NKSYEEIWNNMTWIE	200	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1019	E1019	NKTYNDIWDNMTWLQ	200	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1020	E1020	QDEIWDNMTWMEWER	201	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1021	E1021	QSEIWDNMTWLQWDK	201	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1022	E1022	LDEIWDNMTWMEWER	201	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1023	E1023	QTDIWDNMTWMQWDR	201	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1024	E1024	LDEIWNNMTWMEWER	201	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1025	E1025	YEEIWNNMTWIEWER	201	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1026	E1026	YNDIWDNMTWLQWDK	201	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1027	E1027	IWDNMTWMEWEREIS	202	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1028	E1028	IWDNMTWLQWDKEIS	202	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+1029	E1029	IWDNMTWMEWEREID	202	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1030	E1030	IWDNMTWMQWDREIS	202	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1031	E1031	IWNNMTWMEWEREID	202	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1032	E1032	IWNNMTWIEWEREIS	202	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1033	E1033	NMTWMEWEREISNYT	203	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1034	E1034	NMTWLQWDKEISNYT	203	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+1035	E1035	NMTWMEWEREIDNYT	203	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+1036	E1036	NMTWMQWDREISNYT	203	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1037	E1037	NMTWIEWEREISNYT	203	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1038	E1038	WMEWEREISNYTQQI	204	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1039	E1039	WLQWDKEISNYTQII	204	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1040	E1040	WMEWEREIDNYTGLI	204	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+1041	E1041	WMQWDREISNYTDTI	204	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1042	E1042	WIEWEREISNYTNQI	204	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1043	E1043	WLQWDKEISNYTNII	204	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1044	E1044	WEREISNYTQQIYRL	205	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1045	E1045	WDKEISNYTQIIYNL	205	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1046	E1046	WEREIDNYTGLIYTL	205	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1047	E1047	WDREISNYTDTIYRL	205	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1048	E1048	WEREIDNYTGLIYSL	205	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1049	E1049	WEREISNYTNQIYEI	205	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1050	E1050	WDKEISNYTNIIYNL	205	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1051	E1051	EISNYTQQIYRLIEE	206	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1052	E1052	EISNYTQIIYNLIEE	206	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1053	E1053	EIDNYTGLIYTLIEE	206	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1054	E1054	EISNYTDTIYRLLED	206	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1055	E1055	EIDNYTGLIYSLIEE	206	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1056	E1056	EISNYTNQIYEILTE	206	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1057	E1057	EISNYTNIIYNLIEE	206	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1058	E1058	NYTQQIYRLIEESQN	207	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1059	E1059	NYTQIIYNLIEESQN	207	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1060	E1060	NYTGLIYTLIEESQN	207	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1061	E1061	NYTDTIYRLLEDSQN	207	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1062	E1062	NYTGLIYSLIEESQT	207	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1063	E1063	NYTNQIYEILTESQN	207	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1064	E1064	NYTNIIYNLIEESQN	207	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1065	E1065	QQIYRLIEESQNQQE	208	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1066	E1066	QIIYNLIEESQNQQE	208	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1067	E1067	GLIYTLIEESQNQQE	208	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1068	E1068	DTIYRLLEDSQNQQE	208	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1069	E1069	GLIYSLIEESQTQQE	208	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1070	E1070	NQIYEILTESQNQQD	208	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1071	E1071	NIIYNLIEESQNQQE	208	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1072	E1072	YRLIEESQNQQEKNE	209	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1073	E1073	YNLIEESQNQQEKNE	209	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+1074	E1074	YTLIEESQNQQEKNE	209	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1075	E1075	YRLLEDSQNQQEKNE	209	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1076	E1076	YSLIEESQTQQEKNE	209	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1077	E1077	YEILTESQNQQDRNE	209	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1078	E1078	IEESQNQQEKNEQDL	210	1&2&7	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	AG Con	
+1079	E1079	IEESQNQQEKNEQEL	210	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1080	E1080	LEDSQNQQEKNEKDL	210	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1081	E1081	IEESQTQQEKNEQEL	210	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1082	E1082	LTESQNQQDRNEKDL	210	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1083	E1083	SQNQQEKNEQDLLAL	211	1&2&7	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	AG Con	
+1084	E1084	SQNQQEKNEQELLEL	211	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1085	E1085	SQNQQEKNEKDLLAL	211	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1086	E1086	SQTQQEKNEQELLQL	211	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1087	E1087	SQNQQDRNEKDLLEL	211	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1088	E1088	QQEKNEQDLLALDKW	212	1&2&7	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	-	AG Con	
+1089	E1089	QQEKNEQELLELDKW	212	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1090	E1090	QQEKNEKDLLALDSW	212	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1091	E1091	QQEKNEQELLQLDKW	212	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1092	E1092	QQDRNEKDLLELDKW	212	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1093	E1093	KNEQDLLALDKWASL	213	1&7	2	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	AG Con	
+1094	E1094	KNEQDLLALDKWANL	213	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1095	E1095	KNEQELLELDKWASL	213	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1096	E1096	KNEKDLLALDSWKNL	213	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1097	E1097	KNEQELLQLDKWASL	213	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1098	E1098	RNEKDLLELDKWASL	213	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1099	E1099	QDLLALDKWASLWNW	214	1&7	2	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	AG Con	
+1100	E1100	QDLLALDKWANLWNW	214	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1101	E1101	QELLELDKWASLWNW	214	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1102	E1102	KDLLALDSWKNLWNW	214	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1103	E1103	QELLQLDKWASLWNW	214	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1104	E1104	KDLLELDKWASLWNW	214	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1105	E1105	LALDKWASLWNWFDI	215	1&7	2	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	AG Con	
+1106	E1106	LALDKWANLWNWFDI	215	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1107	E1107	LELDKWASLWNWFDI	215	3&6	2	Ori	-	-	-	-	-	-	-	-	B Con	-	-	AE Con	-	
+1108	E1108	LALDSWKNLWNWFDI	215	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1109	E1109	LQLDKWASLWNWFSI	215	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1110	E1110	DKWASLWNWFDITNW	216	1&3&6&7	4	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	AE Con	AG Con	
+1111	E1111	DKWANLWNWFDISNW	216	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1112	E1112	DSWKNLWNWFDITNW	216	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1113	E1113	DKWASLWNWFSITKW	216	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1114	E1114	ASLWNWFDITNWLWY	217	1&3&6&7	4	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	AE Con	AG Con	
+1115	E1115	ANLWNWFDISNWLWY	217	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1116	E1116	KNLWNWFDITNWLWY	217	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1117	E1117	ASLWNWFSITKWLWY	217	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1118	E1118	WNWFDITNWLWYIKI	218	1&3&4&6&7	5	Ori	-	-	-	-	-	-	M Con	-	B Con	C Con	-	AE Con	AG Con	
+1119	E1119	WNWFDISNWLWYIKI	218	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1120	E1120	WNWFSITKWLWYIKI	218	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1121	E1121	FDITNWLWYIKIFIM	219	1&3&4&6&7	5	Ori	-	-	-	-	-	-	M Con	-	B Con	C Con	-	AE Con	AG Con	
+1122	E1122	FDISNWLWYIKIFIM	219	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1123	E1123	FSITKWLWYIKIFIM	219	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1124	E1124	TNWLWYIKIFIMIVG	220	1&3&4&6&7	5	Ori	-	-	-	-	-	-	M Con	-	B Con	C Con	-	AE Con	AG Con	
+1125	E1125	SNWLWYIKIFIMIVG	220	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1126	E1126	TKWLWYIKIFIMIVG	220	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1127	E1127	LWYIKIFIMIVGGLI	221	1&2&3&4&5&6&7	7	Ori	-	-	-	-	-	-	M Con	A Con	B Con	C Con	D Con	AE Con	AG Con	
+																				
+1128	E1128	IKIFIMIVGGLIGLR	222	1&2&3&4&5&6&7	7	Ori	-	-	-	-	-	-	M Con	A Con	B Con	C Con	D Con	AE Con	AG Con	
+																				
+1129	E1129	FIMIVGGLIGLRIVF	223	1&2&3&5&7	5	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	D Con	-	AG Con	
+1130	E1130	FIMIVGGLIGLRIIF	223	4&6	2	Ori	-	-	-	-	-	-	-	-	-	C Con	-	AE Con	-	
+																				
+1131	E1131	IVGGLIGLRIVFAVL	224	1&2&3&5&7	5	Ori	-	-	-	-	-	-	M Con	A Con	B Con	-	D Con	-	AG Con	
+1132	E1132	IVGGLIGLRIIFAVL	224	4&6	2	Ori	-	-	-	-	-	-	-	-	-	C Con	-	AE Con	-	
+																				
+1133	E1133	GLIGLRIVFAVLSIV	225	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+1134	E1134	GLIGLRIVFAVLSII	225	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1135	E1135	GLIGLRIIFAVLSIV	225	4&6	2	Ori	-	-	-	-	-	-	-	-	-	C Con	-	AE Con	-	
+1136	E1136	GLIGLRIVFAVLSLV	225	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1137	E1137	GLIGLRIVFAVLTII	225	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1138	E1138	GLRIVFAVLSIVNRV	226	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+1139	E1139	GLRIVFAVLSIINRV	226	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1140	E1140	GLRIIFAVLSIVNRV	226	4&6	2	Ori	-	-	-	-	-	-	-	-	-	C Con	-	AE Con	-	
+1141	E1141	GLRIVFAVLSLVNRV	226	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1142	E1142	GLRIVFAVLTIINRV	226	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1143	E1143	IVFAVLSIVNRVRQG	227	1&3	2	Ori	-	-	-	-	-	-	M Con	-	B Con	-	-	-	-	
+1144	E1144	IVFAVLSIINRVRQG	227	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1145	E1145	IIFAVLSIVNRVRQG	227	4&6	2	Ori	-	-	-	-	-	-	-	-	-	C Con	-	AE Con	-	
+1146	E1146	IVFAVLSLVNRVRQG	227	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1147	E1147	IVFAVLTIINRVRQG	227	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1148	E1148	AVLSIVNRVRQGYSP	228	1&3&4&6	4	Ori	-	-	-	-	-	-	M Con	-	B Con	C Con	-	AE Con	-	
+1149	E1149	AVLSIINRVRQGYSP	228	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1150	E1150	AVLSLVNRVRQGYSP	228	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1151	E1151	AVLTIINRVRQGYSP	228	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1152	E1152	SIVNRVRQGYSPLSF	229	1&3&4&6	4	Ori	-	-	-	-	-	-	M Con	-	B Con	C Con	-	AE Con	-	
+1153	E1153	SIINRVRQGYSPLSF	229	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1154	E1154	SLVNRVRQGYSPLSF	229	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1155	E1155	TIINRVRQGYSPLSF	229	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1156	E1156	NRVRQGYSPLSFQTL	230	1&4&5&7	4	Ori	-	-	-	-	-	-	M Con	-	-	C Con	D Con	-	AG Con	
+1157	E1157	NRVRQGYSPLSFQTH	230	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1158	E1158	NRVRQGYSPLSFQTR	230	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1159	E1159	NRVRQGYSPLSFQTP	230	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1160	E1160	RQGYSPLSFQTLTPH	231	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1161	E1161	RQGYSPLSFQTHTPN	231	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1162	E1162	RQGYSPLSFQTRLPA	231	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1163	E1163	RQGYSPLSFQTLTPN	231	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1164	E1164	RQGYSPLSFQTLLPA	231	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1165	E1165	RQGYSPLSFQTPTHH	231	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1166	E1166	RQGYSPLSFQTLTHH	231	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1167	E1167	YSPLSFQTLTPHPRG	232	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1168	E1168	YSPLSFQTHTPNPRG	232	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1169	E1169	YSPLSFQTRLPAPRG	232	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1170	E1170	YSPLSFQTLTPNPRG	232	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1171	E1171	YSPLSFQTLLPAPRG	232	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1172	E1172	YSPLSFQTPTHHQRE	232	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1173	E1173	YSPLSFQTLTHHQRE	232	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1174	E1174	LSFQTLTPHPRGPDR	233	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1175	E1175	LSFQTHTPNPRGLDR	233	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1176	E1176	LSFQTRLPAPRGPDR	233	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1177	E1177	LSFQTLTPNPRGPDR	233	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1178	E1178	LSFQTLLPAPRGPDR	233	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1179	E1179	LSFQTPTHHQREPDR	233	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1180	E1180	LSFQTLTHHQREPDR	233	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1181	E1181	QTLTPHPRGPDRPER	234	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1182	E1182	QTHTPNPRGLDRPGR	234	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1183	E1183	QTRLPAPRGPDRPEG	234	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1184	E1184	QTLTPNPRGPDRLGR	234	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1185	E1185	QTLLPAPRGPDRPEG	234	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1186	E1186	QTPTHHQREPDRPER	234	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1187	E1187	QTLTHHQREPDRPER	234	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1188	E1188	TPHPRGPDRPERIEE	235	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1189	E1189	TPNPRGLDRPGRIEE	235	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1190	E1190	LPAPRGPDRPEGIEE	235	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+1191	E1191	TPNPRGPDRLGRIEE	235	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1192	E1192	THHQREPDRPERIEE	235	6&7	2	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	AG Con	
+																				
+1193	E1193	PRGPDRPERIEEEGG	236	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1194	E1194	PRGLDRPGRIEEEGG	236	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1195	E1195	PRGPDRPEGIEEEGG	236	3&5	2	Ori	-	-	-	-	-	-	-	-	B Con	-	D Con	-	-	
+1196	E1196	PRGPDRLGRIEEEGG	236	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1197	E1197	QREPDRPERIEEGGG	236	6&7	2	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	AG Con	
+																				
+1198	E1198	PDRPERIEEEGGEQD	237	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1199	E1199	LDRPGRIEEEGGEQD	237	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1200	E1200	PDRPEGIEEEGGERD	237	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1201	E1201	PDRLGRIEEEGGEQD	237	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1202	E1202	PDRPEGIEEEGGEQG	237	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1203	E1203	PDRPERIEEGGGEQG	237	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1204	E1204	PDRPERIEEGGGEQD	237	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1205	E1205	PERIEEEGGEQDRDR	238	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1206	E1206	PGRIEEEGGEQDRDR	238	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1207	E1207	PEGIEEEGGERDRDR	238	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1208	E1208	LGRIEEEGGEQDRDR	238	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1209	E1209	PEGIEEEGGEQGRGR	238	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1210	E1210	PERIEEGGGEQGRDR	238	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1211	E1211	PERIEEGGGEQDRDR	238	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1212	E1212	IEEEGGEQDRDRSIR	239	1&2&4	3	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	-	
+1213	E1213	IEEEGGERDRDRSGR	239	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1214	E1214	IEEEGGEQGRGRSIR	239	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1215	E1215	IEEGGGEQGRDRSVR	239	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1216	E1216	IEEGGGEQDRDRSVR	239	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1217	E1217	EGGEQDRDRSIRLVS	240	1&2&4	3	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	-	
+1218	E1218	EGGERDRDRSGRLVD	240	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1219	E1219	EGGEQGRGRSIRLVN	240	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1220	E1220	GGGEQGRDRSVRLVS	240	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1221	E1221	GGGEQDRDRSVRLVS	240	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1222	E1222	EQDRDRSIRLVSGFL	241	1&2&4	3	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	-	
+1223	E1223	ERDRDRSGRLVDGFL	241	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1224	E1224	EQGRGRSIRLVNGFS	241	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1225	E1225	EQGRDRSVRLVSGFL	241	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1226	E1226	EQDRDRSVRLVSGFL	241	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1227	E1227	RDRSIRLVSGFLALA	242	1&2&4	3	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	-	
+1228	E1228	RDRSGRLVDGFLALI	242	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1229	E1229	RGRSIRLVNGFSALI	242	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1230	E1230	RDRSVRLVSGFLALA	242	6&7	2	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	AG Con	
+																				
+1231	E1231	SIRLVSGFLALAWDD	243	1&2&4	3	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	-	-	
+1232	E1232	SGRLVDGFLALIWVD	243	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1233	E1233	SIRLVNGFSALIWDD	243	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1234	E1234	SVRLVSGFLALAWDD	243	6&7	2	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	AG Con	
+																				
+1235	E1235	LVSGFLALAWDDLRS	244	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+1236	E1236	LVDGFLALIWVDLRS	244	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1237	E1237	LVNGFSALIWDDLRN	244	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1238	E1238	GFLALAWDDLRSLCL	245	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+1239	E1239	GFLALIWVDLRSLCL	245	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1240	E1240	GFSALIWDDLRNLCL	245	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1241	E1241	ALAWDDLRSLCLFSY	246	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+1242	E1242	ALIWVDLRSLCLFSY	246	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1243	E1243	ALIWDDLRNLCLFSY	246	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1244	E1244	WDDLRSLCLFSYHRL	247	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+1245	E1245	WVDLRSLCLFSYHRL	247	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1246	E1246	WDDLRNLCLFSYHRL	247	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1247	E1247	LRSLCLFSYHRLRDF	248	1&2&4&6&7	5	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	AG Con	
+1248	E1248	LRSLCLFSYHRLRDL	248	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1249	E1249	LRNLCLFSYHRLRDL	248	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1250	E1250	LCLFSYHRLRDFILI	249	1&2&4&6	4	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	-	
+1251	E1251	LCLFSYHRLRDLLLI	249	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1252	E1252	LCLFSYHRLRDLILI	249	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1253	E1253	LCLFSYHRLRDFVLI	249	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1254	E1254	FSYHRLRDFILIAAR	250	1&2&4&6	4	Ori	-	-	-	-	-	-	M Con	A Con	-	C Con	-	AE Con	-	
+1255	E1255	FSYHRLRDLLLIVTR	250	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1256	E1256	FSYHRLRDLILIAAR	250	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1257	E1257	FSYHRLRDFVLIAAR	250	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1258	E1258	HRLRDFILIAARTVE	251	1&2&6	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	AE Con	-	
+1259	E1259	HRLRDLLLIVTRIVE	251	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1260	E1260	HRLRDFILIAARAVE	251	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1261	E1261	HRLRDLILIAARIVE	251	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1262	E1262	HRLRDFVLIAARTVE	251	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1263	E1263	RDFILIAARTVELLG	252	1&2&6	3	Ori	-	-	-	-	-	-	M Con	A Con	-	-	-	AE Con	-	
+1264	E1264	RDLLLIVTRIVELLG	252	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1265	E1265	RDFILIAARAVELLG	252	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1266	E1266	RDLILIAARIVELLG	252	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1267	E1267	RDFVLIAARTVELLG	252	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1268	E1268	ILIAARTVELLGRSS	253	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1269	E1269	ILIAARTVELLGHSS	253	2&6	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	AE Con	-	
+1270	E1270	LLIVTRIVELLGRRG	253	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1271	E1271	ILIAARAVELLGRSS	253	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1272	E1272	ILIAARIVELLGRRG	253	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1273	E1273	VLIAARTVELLGHSS	253	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1274	E1274	AARTVELLGRSSLKG	254	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1275	E1275	AARTVELLGHSSLKG	254	2&6&7	3	Ori	-	-	-	-	-	-	-	A Con	-	-	-	AE Con	AG Con	
+1276	E1276	VTRIVELLGRRGWEA	254	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1277	E1277	AARAVELLGRSSLRG	254	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1278	E1278	AARIVELLGRRGWEA	254	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+																				
+1279	E1279	TVELLGRSSLKGLRR	255	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1280	E1280	TVELLGHSSLKGLRL	255	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+1281	E1281	AVELLGRSSLRGLQR	255	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1282	E1282	TVELLGHSSLKGLRR	255	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1283	E1283	LLGRSSLKGLRRGWE	256	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1284	E1284	LLGHSSLKGLRLGWE	256	2&7	2	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	AG Con	
+1285	E1285	LLGRSSLRGLQRGWE	256	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1286	E1286	LLGHSSLKGLRRGWE	256	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1287	E1287	RSSLKGLRRGWEALK	257	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1288	E1288	HSSLKGLRLGWEGLK	257	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1289	E1289	IVELLGRRGWEALKY	257	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1290	E1290	RSSLRGLQRGWEALK	257	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1291	E1291	IVELLGRRGWEAIKY	257	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1292	E1292	HSSLKGLRRGWEGLK	257	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1293	E1293	HSSLKGLRLGWEALK	257	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1294	E1294	LKGLRRGWEALKYLW	258	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1295	E1295	LLGRRGWEALKYWWN	258	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1296	E1296	LKGLRLGWEGLKYLW	258	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1297	E1297	LRGLQRGWEALKYLG	258	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1298	E1298	LLGRRGWEAIKYLWN	258	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1299	E1299	LKGLRRGWEGLKYLG	258	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1300	E1300	LKGLRLGWEALKYLG	258	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1301	E1301	LRRGWEALKYLWNLL	259	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1302	E1302	LRLGWEGLKYLWNLL	259	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1303	E1303	RRGWEALKYWWNLL	259	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1304	E1304	LQRGWEALKYLGSLV	259	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1305	E1305	RRGWEAIKYLWNLL	259	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1306	E1306	LRRGWEGLKYLGNLL	259	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1307	E1307	LRLGWEALKYLGNLL	259	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1308	E1308	GWEALKYLWNLLQYW	260	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1309	E1309	GWEGLKYLWNLLLYW	260	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1310	E1310	GWEALKYWWNLLQYW	260	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1311	E1311	GWEALKYLGSLVQYW	260	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1312	E1312	GWEAIKYLWNLLQYW	260	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1313	E1313	GWEGLKYLGNLLLYW	260	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1314	E1314	GWEALKYLGNLLSYW	260	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1315	E1315	ALKYLWNLLQYWGQE	261	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1316	E1316	GLKYLWNLLLYWGRE	261	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1317	E1317	ALKYWWNLLQYWSQE	261	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1318	E1318	ALKYLGSLVQYWGLE	261	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1319	E1319	AIKYLWNLLQYWIQE	261	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1320	E1320	GLKYLGNLLLYWGQE	261	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1321	E1321	ALKYLGNLLSYWGQE	261	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1322	E1322	YLWNLLQYWGQELKN	262	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1323	E1323	YLWNLLLYWGRELKI	262	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1324	E1324	YWWNLLQYWSQELKN	262	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1325	E1325	YLGSLVQYWGLELKK	262	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1326	E1326	YLWNLLQYWIQELKN	262	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1327	E1327	YLGNLLLYWGQELKI	262	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1328	E1328	YLGNLLSYWGQELKN	262	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1329	E1329	NLLQYWGQELKNSAI	263	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1330	E1330	NLLLYWGRELKISAI	263	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1331	E1331	NLLQYWSQELKNSAV	263	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1332	E1332	SLVQYWGLELKKSAI	263	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1333	E1333	NLLQYWIQELKNSAI	263	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1334	E1334	NLLLYWGQELKISAI	263	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1335	E1335	NLLSYWGQELKNSAI	263	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1336	E1336	QYWGQELKNSAISLL	264	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1337	E1337	LYWGRELKISAINLL	264	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1338	E1338	QYWSQELKNSAVSLL	264	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1339	E1339	QYWGLELKKSAISLL	264	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1340	E1340	QYWIQELKNSAISLL	264	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1341	E1341	LYWGQELKISAISLL	264	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1342	E1342	SYWGQELKNSAINLL	264	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1343	E1343	GQELKNSAISLLDTT	265	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1344	E1344	GRELKISAINLLDTI	265	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1345	E1345	SQELKNSAVSLLNAT	265	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1346	E1346	GLELKKSAISLLDTI	265	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1347	E1347	IQELKNSAISLLDTT	265	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1348	E1348	GQELKISAISLLDAT	265	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1349	E1349	GQELKNSAINLLDTI	265	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1350	E1350	LKNSAISLLDTTAIA	266	1&5	2	Ori	-	-	-	-	-	-	M Con	-	-	-	D Con	-	-	
+1351	E1351	LKISAINLLDTIAIA	266	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1352	E1352	LKNSAVSLLNATAIA	266	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1353	E1353	LKKSAISLLDTIAIA	266	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1354	E1354	LKISAISLLDATAIA	266	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1355	E1355	LKNSAINLLDTIAIA	266	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1356	E1356	SAISLLDTTAIAVAE	267	1&5	2	Ori	-	-	-	-	-	-	M Con	-	-	-	D Con	-	-	
+1357	E1357	SAINLLDTIAIAVAG	267	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1358	E1358	SAVSLLNATAIAVAE	267	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1359	E1359	SAISLLDTIAIAVAE	267	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1360	E1360	SAISLLDATAIAVAG	267	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1361	E1361	SAINLLDTIAIAVAN	267	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1362	E1362	SLLDTTAIAVAEGTD	268	1&5	2	Ori	-	-	-	-	-	-	M Con	-	-	-	D Con	-	-	
+1363	E1363	NLLDTIAIAVAGWTD	268	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1364	E1364	SLLNATAIAVAEGTD	268	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1365	E1365	SLLDTIAIAVAEGTD	268	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1366	E1366	SLLDATAIAVAGWTD	268	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1367	E1367	NLLDTIAIAVANWTD	268	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1368	E1368	DTTAIAVAEGTDRVI	269	1&5	2	Ori	-	-	-	-	-	-	M Con	-	-	-	D Con	-	-	
+1369	E1369	DTIAIAVAGWTDRVI	269	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1370	E1370	NATAIAVAEGTDRVI	269	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1371	E1371	DTIAIAVAEGTDRII	269	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1372	E1372	DATAIAVAGWTDRVI	269	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1373	E1373	DTIAIAVANWTDRVI	269	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1374	E1374	AIAVAEGTDRVIEIV	270	1&5	2	Ori	-	-	-	-	-	-	M Con	-	-	-	D Con	-	-	
+1375	E1375	AIAVAGWTDRVIEIG	270	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1376	E1376	AIAVAEGTDRVIEVV	270	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1377	E1377	AIAVAEGTDRIIELI	270	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1378	E1378	AIAVAGWTDRVIEVA	270	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1379	E1379	AIAVANWTDRVIEIG	270	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1380	E1380	VAEGTDRVIEIVQRA	271	1&5	2	Ori	-	-	-	-	-	-	M Con	-	-	-	D Con	-	-	
+1381	E1381	VAGWTDRVIEIGQRI	271	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1382	E1382	VAEGTDRVIEVVQRA	271	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1383	E1383	VAEGTDRIIELIQRI	271	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1384	E1384	VAGWTDRVIEVAQRA	271	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1385	E1385	VANWTDRVIEIGQRA	271	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1386	E1386	GTDRVIEIVQRAGRA	272	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1387	E1387	WTDRVIEIGQRIGRA	272	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1388	E1388	GTDRVIEVVQRAFRA	272	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1389	E1389	GTDRIIELIQRICRA	272	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1390	E1390	GTDRVIEIVQRAVRA	272	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1391	E1391	WTDRVIEVAQRAWRA	272	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1392	E1392	WTDRVIEIGQRAGRA	272	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1393	E1393	RVIEIVQRAGRAILN	273	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1394	E1394	RVIEIGQRIGRAILH	273	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1395	E1395	RVIEVVQRAFRAILH	273	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1396	E1396	RIIELIQRICRAIRN	273	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1397	E1397	RVIEIVQRAVRAILN	273	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1398	E1398	RVIEVAQRAWRAILH	273	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1399	E1399	RVIEIGQRAGRAILN	273	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1400	E1400	EIVQRAGRAILNIPR	274	1	1	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	-	
+1401	E1401	EIGQRIGRAILHIPR	274	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1402	E1402	EVVQRAFRAILHIPR	274	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1403	E1403	ELIQRICRAIRNIPR	274	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1404	E1404	EIVQRAVRAILNIPR	274	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1405	E1405	EVAQRAWRAILHIPR	274	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+1406	E1406	EIGQRAGRAILNIPR	274	7	1	Ori	-	-	-	-	-	-	-	-	-	-	-	-	AG Con	
+																				
+1407	E1407	QRAGRAILNIPRRIR	275	1&7	2	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	AG Con	
+1408	E1408	QRIGRAILHIPRRIR	275	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1409	E1409	QRAFRAILHIPRRIR	275	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1410	E1410	QRICRAIRNIPRRIR	275	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1411	E1411	QRAVRAILNIPRRIR	275	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1412	E1412	QRAWRAILHIPRRIR	275	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1413	E1413	GRAILNIPRRIRQGL	276	1&7	2	Ori	-	-	-	-	-	-	M Con	-	-	-	-	-	AG Con	
+1414	E1414	GRAILHIPRRIRQGF	276	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1415	E1415	FRAILHIPRRIRQGL	276	3	1	Ori	-	-	-	-	-	-	-	-	B Con	-	-	-	-	
+1416	E1416	CRAIRNIPRRIRQGF	276	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+1417	E1417	VRAILNIPRRIRQGL	276	5	1	Ori	-	-	-	-	-	-	-	-	-	-	D Con	-	-	
+1418	E1418	WRAILHIPRRIRQGL	276	6	1	Ori	-	-	-	-	-	-	-	-	-	-	-	AE Con	-	
+																				
+1419	E1419	ILNIPRRIRQGLERA	277	1&5&7	3	Ori	-	-	-	-	-	-	M Con	-	-	-	D Con	-	AG Con	
+1420	E1420	ILHIPRRIRQGFERA	277	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1421	E1421	ILHIPRRIRQGLERA	277	3&6	2	Ori	-	-	-	-	-	-	-	-	B Con	-	-	AE Con	-	
+1422	E1422	IRNIPRRIRQGFEAA	277	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	
+																				
+1423	E1423	IPRRIRQGLERALL	278	1&3&5&6&7	5	Ori	-	-	-	-	-	-	M Con	-	B Con	-	D Con	AE Con	AG Con	
+1424	E1424	IPRRIRQGFERALL	278	2	1	Ori	-	-	-	-	-	-	-	A Con	-	-	-	-	-	
+1425	E1425	IPRRIRQGFEAALL	278	4	1	Ori	-	-	-	-	-	-	-	-	-	C Con	-	-	-	

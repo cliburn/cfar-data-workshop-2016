@@ -1,0 +1,4 @@
+Group information GLA-Rb Study:
+
+WT Group: 770, 771, 776
+GLA Group: 778, 780, 783
