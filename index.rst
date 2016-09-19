@@ -41,6 +41,7 @@ Day 1
 .. toctree::
    :maxdepth: 2
 
+   Preview_of_Workshop.ipynb
    Getting_Started_with_Python.ipynb
    Introduction_to_Pandas.ipynb
    Data_Manipulation.ipynb
