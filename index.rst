@@ -45,7 +45,7 @@ Day 1
    Getting_Started_With_Python_Solutions.ipynb
    IntroductionToPandas_Solutions.ipynb
    ManipulatingDataFrames_Solutions.ipynb
-   Capstone1_Solutions.ipynb
+   Capstone1Solutions.ipynb
 
 Day 2
 ^^^^^^^^^^^^^^^^^^^
@@ -56,7 +56,7 @@ Day 2
    Getting_Started_With_Graphics.ipynb
    Basic_Plots_Solutions.ipynb
    Customizing_Plots_Solutions.ipynb
-   Capstone2_Solutions.ipynb
+   Capstone2Solutions.ipynb
 
 Post-workshop
 ^^^^^^^^^^^^^^^^^^^
