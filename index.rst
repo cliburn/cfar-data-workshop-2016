@@ -42,7 +42,7 @@ Day 1
    :maxdepth: 2
 
    Preview_of_Workshop.ipynb
-   Getting_Started_With_Python_Solutions.ipynb
+   Getting_Started_With_Python_Solutoins.ipynb
    IntroductionToPandas_Solutions.ipynb
    ManipulatingDataFrames_Solutions.ipynb
    Capstone1Solutions.ipynb
@@ -56,6 +56,7 @@ Day 2
    Getting_Started_With_Graphics.ipynb
    Basic_Plots_Solutions.ipynb
    Customizing_Plots_Solutions.ipynb
+   ChousingColorPlalettes.ipynb
    Capstone2Solutions.ipynb
 
 Post-workshop
